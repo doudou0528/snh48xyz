@@ -1,0 +1,35 @@
+- name: "Short Clip - Jiang Shuting's 25 Fans"
+  date: 2021-12-21
+  language: "English"
+  link: "https://www.youtube.com/watch?v=WTOwPdhlaiE"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Jiang Shuting"]
+- name: "SNH48 Team HII - Quick Reply - Orange Miracle MC3"
+  date: 2019-06-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=nXpEonZB0PU"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Sun Zhenni", "Guo Shuang", "Lin Shuqing", "Xu Yangyuzhuo", "Zhang Xin", "Jiang Shuting", "Hao Jingyi", "Ran Wei"]
+- name: "SNH48 Team X - Reenact a Handshake Event - Trigonometric Functions MC4"
+  date: 2021-12-19
+  language: "English"
+  link: "https://www.youtube.com/watch?v=DMHJwKcZfTw"
+  groups: ["SNH48"]
+  teams: ["X"]
+  members: ["Yan Na", "Wang Xiaojia", "Yang Bingyi", "Wang Ruiqi", "Heyang Qingqing", "Wang Yiliu", "Liu Shengnan"]
+- name: "SNH48 Team HII - King's Game - Ultimate Mission MC3"
+  date: 2021-08-19
+  language: "English"
+  link: "https://www.youtube.com/watch?v=PBuxvfO32zo"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Zhang Xin", "Jiang Shuting", "Xu Yangyuzhuo", "Fei Qinyuan", "Lin Shuqing", "Nong Yanping", "Guo Shuang", "Sun Zhenni", "Zhang Yueming"]
+- name: "SNH48 - The Girls Documentary"
+  date: 2016-11-21
+  language: "English"
+  link: "https://www.youtube.com/watch?v=PBuxvfO32zo"
+  groups: ["SNH48", "GNZ48"]
+  teams: ["SII", "NII", "HII", "X", "G"]
+  members: ["Zhao Jiamin", "Hong Peiyun", "Liu Mengya", "Mo Han", "Zeng Yanfen", "Fei Qinyuan", "Chen Ke", "Zhang Qiongyu", "Zhang Yi", "Pan Yingqi", "Chen Si", "Huang Tingting", "Chen Guanhui", "Song Xinran", "Wang Xiaojia"]

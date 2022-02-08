@@ -1,0 +1,42 @@
+.internal a {
+    color: #000;
+    padding: 0.5em 0.5em 0.25em 0.5em;
+    border-bottom: 0.25em solid #63caf3;
+    text-decoration: none;
+}
+
+.internal a:hover {
+    background: #63caf3;
+    border-bottom: -2em solid #63caf3;
+    text-decoration: none;
+}
+
+.external a {
+    color: #000;
+    padding: 0.25em 0.25em 0.25em 0.25em;
+    border-bottom: 0.25em solid #8963f3;
+    text-decoration: none;
+}
+
+.external a:hover {
+    background: #8963f3;
+    border-bottom: -2em solid #8963f3;
+    color: #fff;
+    text-decoration: none;
+}
+
+a.tag {
+    border: none;
+    color: #000;
+    text-decoration: none;
+}
+
+a.tag:hover {
+    background: none;
+    border: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind forms;

@@ -1,0 +1,45 @@
+{
+  "name": "snh48xyz",
+  "version": "1.0.0",
+  "private": true,
+  "description": "snh48xyz",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "@tailwindcss/forms": "^0.4.0",
+    "autoprefixer": "^10.4.2",
+    "gatsby": "^4.6.2",
+    "gatsby-plugin-image": "^2.6.0",
+    "gatsby-plugin-manifest": "^4.6.0",
+    "gatsby-plugin-mdx": "^3.6.0",
+    "gatsby-plugin-no-index": "^1.0.2",
+    "gatsby-plugin-react-helmet": "^5.6.0",
+    "gatsby-plugin-sharp": "^4.6.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^4.6.0",
+    "gatsby-transformer-sharp": "^4.6.0",
+    "html-react-parser": "^1.4.8",
+    "js-yaml": "^4.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "gatsby-plugin-emotion": "^7.6.0",
+    "gatsby-plugin-postcss": "^5.6.0",
+    "tailwindcss": "^3.0.18",
+    "twin.macro": "^2.8.2"
+  }
+}
