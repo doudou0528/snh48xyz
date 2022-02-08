@@ -28,7 +28,6 @@ const MemberPage = (props) => {
                   <h4>Intro</h4>
                   <ul>
                     <li>Simplified name: {member["sname"]}</li>
-                    <li>Traditional name: {member["fname"]}</li>
                     <li>Nickname: {member["nickname"]}</li>
                     <li>Abbreviation: {member["abbr"]}</li>
                     <li>Birthplace: {member["birth_place"]}</li>
