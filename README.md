@@ -4,10 +4,12 @@ SNH48 Group index for content with subtitles
 
 ## Quick start
 
-`npm install`
-`npm run develop`
+```
+npm install
+npm run develop
+```
 
-### Project Structure
+## Project Structure
 
 Built with [Gatsby](https://www.gatsbyjs.com/docs/)
 
