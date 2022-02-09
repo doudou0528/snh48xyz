@@ -38,7 +38,7 @@ const ContentCard = (props) => {
 
   return (
     <div css={tw`drop-shadow-lg shadow p-5 rounded-md`}>
-        <span css={tw`bg-blue-50 p-2`}>{props.date}</span>
+        <span css={tw`bg-gray-50 p-2`}>{props.date}</span>
         <h4>{props.name}</h4>
         <div css={tw`space-x-2 pb-6`}>
             <GroupTags groups={props.groups} />
