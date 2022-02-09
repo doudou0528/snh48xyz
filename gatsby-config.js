@@ -31,6 +31,19 @@ module.exports = {
     },
   },
   'gatsby-plugin-postcss',
-  `gatsby-plugin-no-index` // prevent site from being indexed by search engines
+  `gatsby-plugin-no-index`, // prevent site from being indexed by search engines
+  {
+    resolve: `gatsby-plugin-purgecss`,
+    options: {
+      purgeCSSOptions: {
+        // https://purgecss.com/configuration.html#options
+        // safelist: ['safelist'], // Don't remove this selector
+        develop: true,
+        printRejected: true,
+        tailwind: true
+      },
+      // More options defined here https://purgecss.com/configuration.html#options
+    },
+  }
 ]
 };
