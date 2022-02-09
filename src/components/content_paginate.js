@@ -13,7 +13,7 @@ const ContentPaginate = (props) => {
 
   const ContentItems = () => (
     <div css={tw`grid gap-4 lg:grid-cols-2 sm:grid-cols-1 pt-4`}>
-      {pages[page].map((content) => 
+      {pages.length>0 && pages[page].map((content) => 
         <ContentCard
             name={content["name"]}
             date={content["date"].split("T")[0]}
