@@ -12,7 +12,7 @@ const ContentPaginate = (props) => {
   }
 
   const ContentItems = () => (
-    <div css={tw`grid gap-4 lg:grid-cols-2 sm:grid-cols-1 pt-4`}>
+    <div css={tw`grid gap-4 lg:grid-cols-3 sm:grid-cols-1 pt-4`}>
       {pages.length>0 && pages[page].map((content) => 
         <ContentCard
             name={content["name"]}
@@ -28,9 +28,8 @@ const ContentPaginate = (props) => {
 
   const PageButtons = () => (
     <div css={tw`space-x-2 pt-6 text-sm`}>
-        {page>0 &&
-          <button css={tw`bg-gray-100 hover:cursor-pointer
-            outline-none border-none rounded px-2 py-2`}
+        {<button disabled={page == 0} css={tw`bg-gray-100 hover:cursor-pointer
+            disabled:cursor-not-allowed outline-none border-none rounded px-2 py-2`}
             onClick={(e) => setPage(page-1)}>
               Prev Page
           </button>}
@@ -42,9 +41,8 @@ const ContentPaginate = (props) => {
               {index+1}
           </button>
         )}
-        {page<(pages.length-1) &&
-          <button css={tw`bg-gray-100 hover:cursor-pointer
-            outline-none border-none rounded px-2 py-2`}
+        {<button disabled={page==(pages.length-1)} css={tw`bg-gray-100 hover:cursor-pointer
+            disabled:cursor-not-allowed outline-none border-none rounded px-2 py-2`}
           onClick={(e) => setPage(page+1)}>
               Next Page
           </button>}

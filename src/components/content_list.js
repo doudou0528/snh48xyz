@@ -28,7 +28,7 @@ const ContentList = (props) => {
   return (
     <div>
         <LanguageFilter />
-        <ContentPaginate contentList={sortedContent} contentPerPage={8} />
+        <ContentPaginate contentList={sortedContent} contentPerPage={9} />
     </div>
   )
 }
