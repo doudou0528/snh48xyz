@@ -14,7 +14,7 @@ const MemberPage = (props) => {
     <Layout>
       <div css={tw`pb-4`}>
           {membersWithName.map((member) =>
-            <div css={tw`shadow px-8 py-2 rounded`}>
+            <div css={tw`shadow px-8 py-2 rounded text-sm`}>
               <h3>
                 <TeamTag team={member["tname"]} showLink={true} />
                 <span css={tw`ml-4`}>{member["pinyin"]}</span>
@@ -23,7 +23,7 @@ const MemberPage = (props) => {
                    href={"https://weibo.com/"+member["weibo_uid"]}>Weibo</a>
                 </span>
               </h3>
-              <div css={tw`grid xl:grid-cols-4 lg:grid-cols-2 sm:grid-cols-1 text-sm`}>
+              <div css={tw`grid xl:grid-cols-3 lg:grid-cols-2 sm:grid-cols-1`}>
                 <div>
                   <h4>Intro</h4>
                   <ul>
@@ -53,10 +53,10 @@ const MemberPage = (props) => {
                     <li>Join date: {member["join_day"]}</li>
                   </ul>
                 </div>
-                  <div>
-                  <h4>Experience</h4>
-                  <p>{member["experience"] && parse(member["experience"])}</p>
-                </div>
+              </div>
+              <div>
+                <h4>Experience</h4>
+                <p>{member["experience"] && parse(member["experience"])}</p>
               </div>
             </div>
           )}
