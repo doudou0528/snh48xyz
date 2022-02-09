@@ -6,20 +6,20 @@ import MemberTag from './member_tag'
 
 const GroupTags = (props) => (
     <span css={tw`space-x-2`}>{props.groups.map((group) => 
-        <GroupTag group={group} showLink={true} />
+        <GroupTag group={group} showLink={true} key={group} />
     )}</span>
 );
 
 const TeamTags = (props) => (
     <span css={tw`space-x-2`}>{props.teams.map((team) => 
-        <TeamTag team={team} showLink={true} />
+        <TeamTag team={team} showLink={true} key={team} />
     )}</span>
 );
 
 const MemberLinks = (props) => (
     <div className="internal" css={tw`pt-2 pb-4 space-x-2 px-2 shadow-sm rounded text-xs leading-8`}>
         {props.members.map((member) =>
-            <MemberTag memberName={member} showLink={true} />
+            <MemberTag memberName={member} showLink={true} key={member} />
         )}
     </div>
 );

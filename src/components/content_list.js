@@ -20,11 +20,15 @@ const ContentList = (props) => {
       )}
     </select>);
   const filteredContent = allContent.filter(link => link.language === curLanguage);
+  const sortedContent = filteredContent.sort(
+    (a,b) =>
+      (new Date(b["date"])).getTime() - (new Date(a["date"])).getTime()
+  );
 
   const Grid = tw.div`grid gap-4 lg:grid-cols-2 sm:grid-cols-1 pt-4`;
   const ContentItems = () => (
     <Grid>
-      {filteredContent.map((content) => 
+      {sortedContent.map((content) => 
         <ContentCard
             name={content["name"]}
             date={content["date"].split("T")[0]}
@@ -32,6 +36,7 @@ const ContentList = (props) => {
             groups={content["groups"]}
             teams={content["teams"]}
             members={content["members"]}
+            key={content["name"]+content["language"]}
         />
       )}
     </Grid>);
