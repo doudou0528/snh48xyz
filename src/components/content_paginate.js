@@ -27,19 +27,27 @@ const ContentPaginate = (props) => {
     </div>);
 
   const PageButtons = () => (
-    <div css={tw`space-x-2 pt-6`}>
-        {page>0 && <button css={tw`bg-gray-100 text-sm hover:cursor-pointer
-          outline-none border-none rounded px-2 py-2`}
-          onClick={(e) => setPage(page-1)}>Prev Page</button>}
+    <div css={tw`space-x-2 pt-6 text-sm`}>
+        {page>0 &&
+          <button css={tw`bg-gray-100 hover:cursor-pointer
+            outline-none border-none rounded px-2 py-2`}
+            onClick={(e) => setPage(page-1)}>
+              Prev Page
+          </button>}
         {pages.map((p, index) => 
-          <button css={[tw`bg-white text-sm hover:cursor-pointer
-          outline-none border-none rounded px-2 py-2`,
-          index === page && tw`bg-gray-100`]}
-          onClick={(e) => setPage(index)}>{index+1}</button>
+          <button css={[tw`bg-white hover:cursor-pointer
+            outline-none border-none px-2 py-2`,
+            index === page && tw`bg-gray-100 rounded`]}
+            onClick={(e) => setPage(index)}>
+              {index+1}
+          </button>
         )}
-        {page<(pages.length-1) && <button css={tw`bg-gray-100 text-sm hover:cursor-pointer
-          outline-none border-none rounded px-2 py-2`}
-          onClick={(e) => setPage(page+1)}>Next Page</button>}
+        {page<(pages.length-1) &&
+          <button css={tw`bg-gray-100 hover:cursor-pointer
+            outline-none border-none rounded px-2 py-2`}
+          onClick={(e) => setPage(page+1)}>
+              Next Page
+          </button>}
     </div>
   )
 
