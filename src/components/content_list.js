@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import tw from 'twin.macro'
-import ContentCard from './content_card';
+import ContentPaginate from './content_paginate';
 
 const ContentList = (props) => {
   const [curLanguage, setCurLanguage] = useState("English");
@@ -25,26 +25,10 @@ const ContentList = (props) => {
       (new Date(b["date"])).getTime() - (new Date(a["date"])).getTime()
   );
 
-  const Grid = tw.div`grid gap-4 lg:grid-cols-2 sm:grid-cols-1 pt-4`;
-  const ContentItems = () => (
-    <Grid>
-      {sortedContent.map((content) => 
-        <ContentCard
-            name={content["name"]}
-            date={content["date"].split("T")[0]}
-            link={content["link"]}
-            groups={content["groups"]}
-            teams={content["teams"]}
-            members={content["members"]}
-            key={content["name"]+content["language"]}
-        />
-      )}
-    </Grid>);
-
   return (
     <div>
         <LanguageFilter />
-        <ContentItems />
+        <ContentPaginate contentList={sortedContent} contentPerPage={8} />
     </div>
   )
 }
