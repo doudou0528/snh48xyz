@@ -37,7 +37,7 @@ const ContentPaginate = (props) => {
           <button css={[tw`bg-white hover:cursor-pointer
             outline-none border-none px-2 py-2`,
             index === page && tw`bg-gray-100 rounded`]}
-            onClick={(e) => setPage(index)}>
+            onClick={(e) => setPage(index)} key={index}>
               {index+1}
           </button>
         )}
