@@ -13,8 +13,6 @@ const GroupPage = (props) => {
           languages,
           members,
           contentTypeOptions } = pageContext
-    
-    console.log(contentTypeOptions)
 
   return (
     <Layout>
