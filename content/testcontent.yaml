@@ -1,4 +1,5 @@
 - name: "SNH48 Team SII - Copy the Pose Blindfolded - Plan Salvation MC4"
+  type: "MC"
   date: 2022-01-22
   language: "English"
   link: "https://twitter.com/ioisjyj/status/1487800325159325700"
@@ -6,6 +7,7 @@
   teams: ["SII"]
   members: ["Mo Han", "Jiang Yun", "Wu Zhehan", "Liu Qianqian", "Liu Zengyan", "You Miao", "Li Hui", "Wang Qiuru", "Yan Mingjun", "Chen Yuzi", "Zhu Hanjia"]
 - name: "SNH48 Team SII - Switch Junior/Senior Titles - Plan Salvation MC4"
+  type: "MC"
   date: 2022-01-22
   language: "English"
   link: "https://twitter.com/ioisjyj/status/1487796935071199233"
@@ -13,6 +15,7 @@
   teams: ["SII"]
   members: ["Dai Meng", "Zhang Yuge", "Duan Yixuan", "Tian Shuli", "Shao Xuecong", "Zhao Tianyang", "Ma Yuling", "Shen Xiaoai", "Ning Ke", "Bei Chuhan", "Lu Xinyi"]
 - name: "SNH48 Team HII - Quick Reply - Orange Miracle MC3"
+  type: "MC"
   date: 2019-06-30
   language: "English"
   link: "https://www.youtube.com/watch?v=nXpEonZB0PU"
@@ -20,6 +23,7 @@
   teams: ["HII"]
   members: ["Sun Zhenni", "Guo Shuang", "Lin Shuqing", "Xu Yangyuzhuo", "Zhang Xin", "Jiang Shuting", "Hao Jingyi", "Ran Wei"]
 - name: "SNH48 Team X - Reenact a Handshake Event - Trigonometric Functions MC4"
+  type: "MC"
   date: 2021-12-19
   language: "English"
   link: "https://www.youtube.com/watch?v=DMHJwKcZfTw"
@@ -27,6 +31,7 @@
   teams: ["X"]
   members: ["Yan Na", "Wang Xiaojia", "Yang Bingyi", "Wang Ruiqi", "Heyang Qingqing", "Wang Yiliu", "Liu Shengnan"]
 - name: "SNH48 Team HII - King's Game - Ultimate Mission MC3"
+  type: "MC"
   date: 2021-08-19
   language: "English"
   link: "https://www.youtube.com/watch?v=PBuxvfO32zo"
@@ -34,6 +39,7 @@
   teams: ["HII"]
   members: ["Zhang Xin", "Jiang Shuting", "Xu Yangyuzhuo", "Fei Qinyuan", "Lin Shuqing", "Nong Yanping", "Guo Shuang", "Sun Zhenni", "Zhang Yueming"]
 - name: "SNH48 - The Girls Documentary"
+  type: "Documentary"
   date: 2016-11-21
   language: "English"
   link: "https://www.youtube.com/watch?v=PBuxvfO32zo"
@@ -41,6 +47,7 @@
   teams: ["SII", "NII", "HII", "X", "G"]
   members: ["Zhao Jiamin", "Hong Peiyun", "Liu Mengya", "Mo Han", "Zeng Yanfen", "Fei Qinyuan", "Chen Ke", "Zhang Qiongyu", "Zhang Yi", "Pan Yingqi", "Chen Si", "Huang Tingting", "Chen Guanhui", "Song Xinran", "Wang Xiaojia"]
 - name: "SNH48 Team HII - Nisu Debate - Orange Miracle MC3"
+  type: "MC"
   date: 2019-11-03
   language: "English"
   link: "https://twitter.com/takoyakiii48/status/1486561523778539525"
@@ -48,6 +55,7 @@
   teams: ["HII"]
   members: ["Yuan Yiqi", "Jiang Shuting", "Lin Shuqing", "Guo Shuang", "Zhang Xin", "Xu Yangyuzhuo", "Sun Zhenni", "Hong Peiyun"]
 - name: "SNH48 Team HII - 眼色游戏 Game Session - Ultimate Mission MC4"
+  type: "MC"
   date: 2021-08-19
   language: "English"
   link: "https://www.youtube.com/watch?v=g8_hnTl-JMI"
@@ -55,6 +63,7 @@
   teams: ["HII"]
   members: ["Zhang Shiyun", "Hao Jingyi", "Feng Sijia", "Gao Xueyi", "Sun Yushan", "Shen Mengyao", "Zhang Ranran", "Wang Yi", "Li Jiaen"]
 - name: "SNH48 Team HII - Add a Word Game - Ultimate Mission MC4"
+  type: "MC"
   date: 2021-11-07
   language: "English"
   link: "https://twitter.com/azx3630/status/1460125756168671241"
@@ -62,6 +71,7 @@
   teams: ["HII"]
   members: ["Yuan Yiqi", "Lin Shuqing", "Xu Yangyuzhuo", "Nong Yanping", "Jiang Shuting", "Zhao Tianyang", "Fei Qinyuan", "Zhang Yueming"]
 - name: "SNH48 Team HII - 萝卜蹲 Game Session - Ultimate Mission MC4"
+  type: "MC"
   date: 2021-08-15
   language: "English"
   link: "https://www.youtube.com/watch?v=lo-o3P9CUYk"
@@ -69,6 +79,7 @@
   teams: ["HII"]
   members: ["Feng Sijia", "Shen Mengyao", "Zhang Yueming", "Li Jiaen", "Nong Yanping", "Hao Jingyi", "Lin Shuqing", "Wang Yi", "Sun Zhenni", "Zhang Xin"]
 - name: "SNH48 Team HII - Birthday Wishes for Shen Mengyao - Heading News MC1"
+  type: "MC"
   date: 2020-12-26
   language: "English"
   link: "https://www.youtube.com/watch?v=AiY-C74cca8"
@@ -76,6 +87,7 @@
   teams: ["HII"]
   members: ["Shen Mengyao", "Cheng Ge", "Sun Yushan", "Jiang Shuting", "Yuan Yiqi", "Zhang Xin", "Li Jiaen", "Li Yuqian", "Hao Jingyi", "Wang Yi", "Lin Nan", "Fei Qinyuan", "Lin Shuqing", "Gao Xueyi", "Hong Peiyun", "Feng Sijia", "Nong Yanping"]
 - name: "SNH48 Team HII - 动物叫声你比我猜 Game Session - Ultimate Mission MC4"
+  type: "MC"
   date: 2021-08-28
   language: "English"
   link: "https://www.youtube.com/watch?v=Fe-eLJgHY58"
@@ -83,6 +95,7 @@
   teams: ["HII"]
   members: ["Zhang Xin", "Shen Mengyao", "Gao Xueyi", "Guo Shuang", "Hao Jingyi", "Wang Yi", "Sun Yushan", "Zhang Shiyun"]
 - name: "SNH48 Team HII - 投壶游戏 Game Session - Ultimate Mission MC4"
+  type: "MC"
   date: 2021-11-14
   language: "English"
   link: "https://www.youtube.com/watch?v=U08gs5RBPKM"
@@ -90,6 +103,7 @@
   teams: ["HII"]
   members: ["Shen Mengyao", "Li Jiaen", "Zhang Xin", "Wang Yi", "Sun Yushan", "Feng Sijia", "Zhao Tianyang"]
 - name: "Short Clip - Jiang Shuting's 25 Fans"
+  type: "Stage Clip"
   date: 2021-12-21
   language: "English"
   link: "https://www.youtube.com/watch?v=WTOwPdhlaiE"
@@ -97,6 +111,7 @@
   teams: ["HII"]
   members: ["Jiang Shuting"]
 - name: "Variety - Cao's Emo State 准备好了就出发 Clip"
+  type: "Variety"
   date: 2021-09-23
   language: "English"
   link: "https://twitter.com/RenioIsMe/status/1489519182144180224"
@@ -104,6 +119,7 @@
   teams: ["SII", "X"]
   members: ["Wang Xiaojia", "Jiang Yun"]
 - name: "Variety - 准备好了就出发 Ep 1"
+  type: "Variety"
   date: 2021-09-02
   language: "Indonesian"
   link: "https://www.youtube.com/watch?v=LtPGnBIIVhY"
@@ -111,6 +127,7 @@
   teams: ["SII", "X"]
   members: ["Wang Xiaojia", "Jiang Yun"]
 - name: "Variety - 准备好了就出发 Ep 3"
+  type: "Variety"
   date: 2021-09-16
   language: "English"
   link: "https://www.youtube.com/watch?v=uhVZR9Tgejg"
@@ -118,6 +135,7 @@
   teams: ["SII", "X"]
   members: ["Wang Xiaojia", "Jiang Yun"]
 - name: "Short Clip - LSQ Serenading XYYZ"
+  type: "Livestream"
   date: 2021-11-28
   language: "English"
   link: "https://twitter.com/iloveyuanyang/status/1488590137177030660"
@@ -125,6 +143,7 @@
   teams: ["HII"]
   members: ["Xu Yangyuzhuo", "Lin Shuqing"]
 - name: "Short Clip - Wang Xiaojia's Letter to Jiang Yun"
+  type: "Stage Clip"
   date: 2021-10-03
   language: "English"
   link: "https://twitter.com/RenioIsMe/status/1489519182144180224"
@@ -132,6 +151,7 @@
   teams: ["SII", "X"]
   members: ["Wang Xiaojia", "Jiang Yun"]
 - name: "Phụng Thiên Thừa Vân FTCY - Đọc thư CDSN"
+  type: "Variety"
   date: 2021-10-03
   language: "Vietnamese"
   link: "https://twitter.com/RenioIsMe/status/1489519182144180224"
@@ -139,6 +159,7 @@
   teams: ["SII", "X"]
   members: ["Wang Xiaojia", "Jiang Yun"]
 - name: "Vlog - SNH48 We Are Blazing Practice"
+  type: "Vlog"
   date: 2020-06-05
   language: "English"
   link: "https://twitter.com/RenioIsMe/status/1489519182144180224"
@@ -146,6 +167,7 @@
   teams: ["SII", "NII", "HII", "X", "G", "NIII"]
   members: ["Kong Xiaoyin", "Lu Ting", "Shen Mengyao", "Liu Lifei", "Yuan Yiqi", "Zhang Xin", "Zhang Qiongyu", "Zheng Danni", "Wu Zhehan", "Qing Yuwen", "Wang Xiaojia", "Chen Lin", "Yang Bingyi"]
 - name: "B50 - 《未接来电》Speech"
+  type: "B50 Clip"
   date: 2022-01-08
   language: "English"
   link: "https://twitter.com/xuyeungs/status/1479844176858533889"
@@ -153,6 +175,7 @@
   teams: ["HII"]
   members: ["Xu Yangyuzhuo", "Zhang Xin"]
 - name: "Short Clip - Lu Ting Finds a Man in Lin Siyi's Room"
+  type: "Stage Clip"
   date: 2019-10-02
   language: "English"
   link: "https://twitter.com/azx3630/status/1478673686483795969"
@@ -160,6 +183,7 @@
   teams: ["NII"]
   members: ["Lu Ting", "Zhao Yue"]
 - name: "Short Clip - Lu Ting and Her Stolen BBQ Street Cart"
+  type: "Stage Clip"
   date: 2019-06-15
   language: "English"
   link: "https://twitter.com/azx3630/status/1478664190227222528"
@@ -167,6 +191,7 @@
   teams: ["NII"]
   members: ["Lu Ting", "Feng Xinduo"]
 - name: "Short Clip - When You Coincidentally Meet Some Fans"
+  type: "Stage Clip"
   date: 2019-06-15
   language: "English"
   link: "https://twitter.com/azx3630/status/1478664190227222528"
@@ -174,6 +199,7 @@
   teams: ["SII"]
   members: ["Dai Meng"]
 - name: "Short Clip - Who Would Zhang Xin Save if XYYZ and LSQ Fell into the Water?"
+  type: "Livestream"
   date: 2021-12-19
   language: "English"
   link: "https://twitter.com/azx3630/status/1477957253458108417"
@@ -181,6 +207,7 @@
   teams: ["HII"]
   members: ["Zhang Xin", "Jiang Shuting"]
 - name: "Short Clip - Cange's Life Story"
+  type: "Livestream"
   date: 2021-11-27
   language: "English"
   link: "https://twitter.com/azx3630/status/1477957253458108417"
@@ -188,6 +215,7 @@
   teams: ["NII"]
   members: ["Su Shanshan"]
 - name: "Compilation - A Week's Worth of Funny SNH48 + GNZ48 + BEJ48 MCs (Ep. 62)"
+  type: "MC"
   date: 2021-11-27
   language: "English"
   link: "https://twitter.com/azx3630/status/1477957253458108417"
@@ -195,6 +223,7 @@
   teams: ["SII", "NII", "G", "NIII"]
   members: ["Dai Meng", "Sun Rui", "Zhang Qiongyu", "Lin Jiapei", "Lin Zhi", "Zeng Aijia", "Zhang Menghui", "Sun Xiaoyan", "Qing Yuwen", "Lu Ting", "Lu Tianhui", "Kong Xiaoyin"]
 - name: "Livestream - Kong Xiaoyin Douyin"
+  type: "Livestream"
   date: 2021-11-20
   language: "English"
   link: "https://twitter.com/ioisjyj/status/1462422684126494722"
@@ -202,6 +231,7 @@
   teams: []
   members: ["Kong Xiaoyin"]
 - name: "Short Clip - Zheng Danni's Awkward Moments with Her Parents"
+  type: "Livestream"
   date: 2021-11-27
   language: "English"
   link: "https://twitter.com/azx3630/status/1459457554463932419"
@@ -209,6 +239,7 @@
   teams: ["NIII"]
   members: ["Zheng Danni"]
 - name: "Vlog - Zeng Aijia Fiction Being Filming"
+  type: "Vlog"
   date: 2021-11-16
   language: "English"
   link: "https://twitter.com/_bbiru/status/1460652520687112199"
@@ -216,6 +247,7 @@
   teams: ["G"]
   members: ["Zeng Aijia"]
 - name: "Short Clip - Zhang Xin and Her Clingy Siri"
+  type: "Livestream"
   date: 2021-11-12
   language: "English"
   link: "https://twitter.com/azx3630/status/1459091664547446784"
@@ -223,6 +255,7 @@
   teams: ["HII"]
   members: ["Zhang Xin"]
 - name: "Vlog - Zheng Danni Top 32 MV Shooting"
+  type: "Vlog"
   date: 2021-11-11
   language: "English"
   link: "https://twitter.com/88burgundy/status/1459089754759122944"
@@ -230,6 +263,7 @@
   teams: ["NIII"]
   members: ["Zheng Danni"]
 - name: "Short Clip - XYYZ Demands $2 from a Bully"
+  type: "Stage Clip"
   date: 2020-08-08
   language: "English"
   link: "https://twitter.com/xuyeungs/status/1454536130515267590"
@@ -237,6 +271,7 @@
   teams: ["HII"]
   members: ["Xu Yangyuzhuo"]
 - name: "Short Clip - Cange and Diudiu's First Meeting"
+  type: "Livestream"
   date: 2021-10-26
   language: "English"
   link: "https://twitter.com/azx3630/status/1452938452001968133"
@@ -244,6 +279,7 @@
   teams: ["NII"]
   members: ["Zhou Shiyu", "Su Shanshan"]
 - name: "Vlog - Lin Shuqing Birthday Stage Rehearsal"
+  type: "Vlog"
   date: 2021-10-23
   language: "English"
   link: "https://twitter.com/fqyblog/status/1451882964288249861"
@@ -251,6 +287,7 @@
   teams: ["HII"]
   members: ["Lin Shuqing", "Fei Qinyuan", "Feng Sijia"]
 - name: "Short Clip - The Kind of Girl Zhang Yueming Likes"
+  type: "Stage Clip"
   date: 2021-11-07
   language: "English"
   link: "https://www.youtube.com/watch?v=F8wQyeWhg94"
@@ -258,6 +295,7 @@
   teams: ["HII"]
   members: ["Zhang Yueming"]
 - name: "Short Clip - The Kind of Girl Zhang Yueming Likes"
+  type: "Stage Clip"
   date: 2021-11-07
   language: "German"
   link: "https://www.youtube.com/watch?v=F8wQyeWhg94"
@@ -265,6 +303,7 @@
   teams: ["HII"]
   members: ["Zhang Yueming"]
 - name: "Short Clip - Why Aren't You Wearing This Dress?"
+  type: "Livestream"
   date: 2021-08-09
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1426524093361365001"
@@ -272,6 +311,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Election - Zheng Danni 8th General Election Speech"
+  type: "Election Clip"
   date: 2021-08-07
   language: "English"
   link: "https://twitter.com/88burgundy/status/1425318987710095360"
@@ -279,6 +319,7 @@
   teams: ["NIII"]
   members: ["Zheng Danni"]
 - name: "Election - Duan Yixuan 8th General Election Speech"
+  type: "Election Clip"
   date: 2021-08-07
   language: "English"
   link: "https://twitter.com/loveziting/status/1424248901515628546"
@@ -286,6 +327,7 @@
   teams: ["SII"]
   members: ["Duan Yixuan"]
 - name: "Election - Zhang Qiongyu 8th General Election Speech"
+  type: "Election Clip"
   date: 2021-08-07
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1424158220541640710"
@@ -293,6 +335,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Election - Song Xinran 8th General Election Speech"
+  type: "Election Clip"
   date: 2021-08-07
   language: "English"
   link: "https://twitter.com/sxrpics/status/1424045357957267460"
@@ -300,6 +343,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "Short Clip - GNZ48 Theater Ep. 5"
+  type: "Variety"
   date: 2021-07-22
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1423227106197180418"
@@ -307,6 +351,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Election - Liu Qianqian 8th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2021-07-04
   language: "English"
   link: "https://twitter.com/archiveliu/status/1419299847681757187"
@@ -314,6 +359,7 @@
   teams: ["SII", "NIII"]
   members: ["Liu Qianqian"]
 - name: "Short Clip - Feng Sijia's Letter to Song Xinran"
+  type: "Stage Clip"
   date: 2021-07-10
   language: "English"
   link: "https://twitter.com/fsjbaby/status/1418636966397194241"
@@ -321,6 +367,7 @@
   teams: ["HII", "X"]
   members: ["Feng Sijia", "Song Xinran"]
 - name: "Election - Fei Qinyuan 8th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2021-07-23
   language: "English"
   link: "https://twitter.com/fqyblog/status/1418569750230315011"
@@ -328,6 +375,7 @@
   teams: ["HII"]
   members: ["Fei Qinyuan"]
 - name: "Short Clip - SOSO Q&A | Seventeen Questions about Me"
+  type: "Vlog"
   date: 2020-02-22
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1417425313156550686"
@@ -335,6 +383,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Election - Zheng Danni 8th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2021-07-18
   language: "English"
   link: "https://twitter.com/88burgundy/status/1417071451950051330"
@@ -342,6 +391,7 @@
   teams: ["NIII"]
   members: ["Zheng Danni"]
 - name: "Election - Wang Ruoshilan 8th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2021-07-17
   language: "English"
   link: "https://twitter.com/KidTheDino/status/1416387599422218240"
@@ -349,6 +399,7 @@
   teams: []
   members: ["Wang Ruoshilan"]
 - name: "Election - Chen Lin 7th General Election Appeal Speech"
+  type: "Election Appeal"
   date: 2020-06-16
   language: "English"
   link: "https://twitter.com/chenlinarchives/status/1414302950521020425"
@@ -356,6 +407,7 @@
   teams: ["X"]
   members: ["Wang Ruoshilan"]
 - name: "Election - Zhang Qiongyu 8th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2021-07-05
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1412012739233554432"
@@ -363,6 +415,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Election - Zhang Qiongyu 8th General Election Appeal Speech"
+  type: "Election Appeal"
   date: 2021-06-24
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1408071659366469638"
@@ -370,6 +423,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Livestream - Song Xinran Pocket48 20210619"
+  type: "Livestream"
   date: 2021-06-19
   language: "English"
   link: "https://twitter.com/sxrpics/status/1406473380467986434"
@@ -377,6 +431,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "Livestream - Song Xinran Pocket48 20210525"
+  type: "Livestream"
   date: 2021-05-25
   language: "English"
   link: "https://twitter.com/sxrpics/status/1398843400120684545"
@@ -384,6 +439,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "GNZ48 Team G - Zhang Qiongyu's Birthday Wishes - Tang Lijia Birthday Stage MC1"
+  type: "Stage Clip"
   date: 2021-05-04
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1389822381787598848"
@@ -391,6 +447,7 @@
   teams: ["G", "Z"]
   members: ["Tang Lijia", "Zhang Qiongyu"]
 - name: "GNZ48 Team G - What Do You Want to Say to Your Past and Future Selves? - GNZ48 5th Anniversary Stage MC1"
+  type: "Stage Clip"
   date: 2021-05-03
   language: "English"
   link: "https://twitter.com/zqysosopics/status/1389257918227357699"
@@ -398,6 +455,7 @@
   teams: ["G"]
   members: ["Zhang Qiongyu"]
 - name: "Short Clip - If Yang Yuanyuan Were Rich"
+  type: "Livestream"
   date: 2019-02-12
   language: "English"
   link: "https://twitter.com/siyazi48/status/1380339028352884737"
@@ -405,6 +463,7 @@
   teams: ["Z"]
   members: ["Yang Yuanyuan"]
 - name: "GNZ48 Class 8 - Should You Break Up in a Long Distance Relationship? - Class 8 MC2"
+  type: "MC"
   date: 2021-03-13
   language: "English"
   link: "https://twitter.com/_bbiru/status/1378002486129086466"
@@ -412,6 +471,7 @@
   teams: ["G", "NIII", "Z"]
   members: ["Long Yirui", "Ma Xinyue", "Shi Zhujun", "Wang Jiongyi", "Xie Feifei", "Xu Chuwen", "Ye Shuqi", "Zeng Aijia", "Zhang Qiongyu", "Zhang Shuyu", "Zhu Yixin"]
 - name: "Short Clip - Nong Yanping's Birthday Letter to Long Yirui"
+  type: "Stage Clip"
   date: 2020-11-07
   language: "English"
   link: "https://twitter.com/siyazi48/status/1372162398014992387"
@@ -419,6 +479,7 @@
   teams: ["Z"]
   members: ["Nong Yanping", "Long Yirui"]
 - name: "GNZ48 Class 8 - Family of 4 Letter - Zhang Qiongyu Birthday Stage"
+  type: "Stage Clip"
   date: 2021-03-07
   language: "English"
   link: "https://twitter.com/_bbiru/status/1370259026458505216"
@@ -426,6 +487,7 @@
   teams: ["G"]
   members: ["Zeng Aijia", "Zhang Qiongyu", "Zhu Yixin", "Yang Qingying"]
 - name: "Short Clip - Liu Qianqian's Birthday Letter to Liu Lifei"
+  type: "Stage Clip"
   date: 2020-10-17
   language: "English"
   link: "https://twitter.com/siyazi48/status/1355446465414356998"
@@ -433,6 +495,7 @@
   teams: ["NIII"]
   members: ["Liu Qianqian", "Liu Lifei"]
 - name: "SNH48 Team X - Face Splat Game - Forgotten Country MC3 (SXR Cut)"
+  type: "MC"
   date: 2020-11-22
   language: "English"
   link: "https://twitter.com/sxrpics/status/1368759982917877763"
@@ -440,6 +503,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "Short Clip - Idol Can't Recognize Her Roommate"
+  type: "Stage Clip"
   date: 2018-08-05
   language: "English"
   link: "https://twitter.com/siyazi48/status/1308263792057315328"
@@ -447,6 +511,7 @@
   teams: ["Z"]
   members: ["Long Yirui", "Yang Yuanyuan"]
 - name: "Livestream - Song Xinran Pocket48"
+  type: "Livestream"
   date: 2020-09-12
   language: "English"
   link: "https://twitter.com/sxrpics/status/1305084688315412480"
@@ -454,6 +519,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "Short Clip - Fox's Friends' Interview with DDD"
+  type: "Interview"
   date: 2020-09-04
   language: "English"
   link: "https://twitter.com/DDDarchive/status/1303602834806464512"
@@ -461,6 +527,7 @@
   teams: ["SII"]
   members: ["Duan Yixuan"]
 - name: "Vlog - SNH48 7th General Election Vlog (DM Cut)"
+  type: "Vlog"
   date: 2020-09-09
   language: "English"
   link: "https://twitter.com/forDaimeng_/status/1303340760746528769"
@@ -468,6 +535,7 @@
   teams: ["SII"]
   members: ["Dai Meng"]
 - name: "GNZ48 Team Z - Not Just Friends? - Yang Yuanyuan Birthday MC"
+  type: "Stage Clip"
   date: 2018-12-30
   language: "English"
   link: "https://twitter.com/siyazi48/status/1300058156412727296"
@@ -475,6 +543,7 @@
   teams: ["Z"]
   members: ["Long Yirui", "Yang Yuanyuan"]
 - name: "Short Clip - XYYZ's Letter to ZX"
+  type: "Stage Clip"
   date: 2019-11-09
   language: "English"
   link: "https://twitter.com/xuyeungs/status/1297228749201539073"
@@ -482,6 +551,7 @@
   teams: ["HII"]
   members: ["Xu Yangyuzhuo", "Zhang Xin"]
 - name: "Election - Lin Siyi 7th General Election Speech"
+  type: "Election Clip"
   date: 2020-08-15
   language: "English"
   link: "https://twitter.com/LinSnh48/status/1296301365656866816"
@@ -489,6 +559,7 @@
   teams: ["HII"]
   members: ["Lin Siyi"]
 - name: "Election - Song Xinran 7th General Election Speech"
+  type: "Election Clip"
   date: 2020-08-15
   language: "English"
   link: "https://twitter.com/sxrpics/status/1295174668891107330"
@@ -496,6 +567,7 @@
   teams: ["X"]
   members: ["Song Xinran"]
 - name: "Election - Zhang Xin 7th General Election Speech"
+  type: "Election Clip"
   date: 2020-08-15
   language: "English"
   link: "https://twitter.com/ayyuyan/status/1294711690714591236"
@@ -503,6 +575,7 @@
   teams: ["HII"]
   members: ["Zhang Xin"]
 - name: "SNH48 Team X - SXR Birthday MC - Song Xinran Birthday Stage"
+  type: "MC"
   date: 2019-07-13
   language: "English"
   link: "https://twitter.com/sxrpics/status/1294174574305828864"
@@ -510,6 +583,7 @@
   teams: ["X"]
   members: ["Song Xinran", "Ran Wei", "Wang Jialing", "Feng Xiaofei", "Qi Jing", "Chen Lin", "Wang Xiaojia"]
 - name: "Election - Li Jiaen 7th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2020-08-09
   language: "English"
   link: "https://twitter.com/lijiaenpics/status/1293006023255642113"
@@ -517,6 +591,7 @@
   teams: ["HII"]
   members: ["Li Jiaen"]
 - name: "Short Clip - Zhang Xin Gets Contemplative about Elections"
+  type: "Livestream"
   date: 2020-08-07
   language: "English"
   link: "https://twitter.com/ayyuyan/status/1291938642475261958"
@@ -524,6 +599,7 @@
   teams: ["HII"]
   members: ["Zhang Xin"]
 - name: "Election - Duan Yixuan 7th General Election Lapiao Speech"
+  type: "Election Appeal"
   date: 2020-08-01
   language: "English"
   link: "https://twitter.com/DDDarchive/status/1289778665425735680"
@@ -531,6 +607,7 @@
   teams: ["SII"]
   members: ["Duan Yixuan"]
 - name: "GNZ48 Team Z - Idol Lets Go of Her Love and Moves On - Chen Guijun Birthday Stage"
+  type: "Stage Clip"
   date: 2019-11-03
   language: "English"
   link: "https://twitter.com/siyazi48/status/1289107210966990850"
@@ -538,6 +615,7 @@
   teams: ["Z"]
   members: ["Nong Yanping", "Chen Guijun"]
 - name: "Short Clip - 饭爱豆娱乐 Interview Preview"
+  type: "Interview"
   date: 2020-07-30
   language: "English"
   link: "https://twitter.com/lijiaenpics/status/1289028331644608512"
@@ -545,6 +623,7 @@
   teams: ["HII"]
   members: ["Li Jiaen", "Sun Zhenni"]
 - name: "Short Clip - Sunruiverse Casts 9999 Vote"
+  type: "Livestream"
   date: 2020-07-25
   language: "English"
   link: "https://twitter.com/fallingsnow0309/status/1287081999677751297"
@@ -552,6 +631,7 @@
   teams: ["SII"]
   members: ["Sun Rui"]
 - name: "GNZ48 Team Z - Idol Gets Kicked Out of the Closet on Her Birthday - Nong Yanping Birthday Stage"
+  type: "Stage Clip"
   date: 2018-09-01
   language: "English"
   link: "https://twitter.com/siyazi48/status/1285108332793982976"
@@ -559,6 +639,7 @@
   teams: ["Z"]
   members: ["Nong Yanping", "Chen Guijun"]
 - name: "SNH48 - Li Jiaen SNH48 Survival Tour Chongqing Stop MC1"
+  type: "Stage Clip"
   date: 2020-07-18
   language: "English"
   link: "https://twitter.com/lijiaenpics/status/1284688633518227456"
@@ -566,6 +647,7 @@
   teams: ["HII"]
   members: ["Li Jiaen"]
 - name: "Variety - 妈妈的牵挂"
+  type: "Variety"
   date: 2017-11-16
   language: "English"
   link: "https://www.youtube.com/watch?v=gng23s6mmIA"
@@ -573,6 +655,7 @@
   teams: ["HII"]
   members: ["Lin Siyi"]
 - name: "Variety - We Are Blazing Ep.1 (ZX Cut)"
+  type: "Variety"
   date: 2020-05-30
   language: "English"
   link: "https://twitter.com/archivexin/status/1280116390288961538"
@@ -580,6 +663,7 @@
   teams: ["HII"]
   members: ["Zhang Xin"]
 - name: "Short Clip - The Stress of Elections"
+  type: "Livestream"
   date: 2020-07-01
   language: "English"
   link: "https://twitter.com/archivexin/status/1278876576118181888"
@@ -587,6 +671,7 @@
   teams: ["HII"]
   members: ["Zhang Xin"]
 - name: "Short Clip - Love is Love (Livestream Cut)"
+  type: "Livestream"
   date: 2020-04-29
   language: "English"
   link: "https://twitter.com/siyazi48/status/1277564035945254915"
@@ -594,6 +679,7 @@
   teams: ["Z"]
   members: ["Nong Yanping"]
 - name: "Short Clip - Dai Meng Discusses Zhang Xin's Discipline"
+  type: "Clip (Other)"
   date: 2020-06-29
   language: "English"
   link: "https://twitter.com/archivexin/status/1277478506260320257"
@@ -601,6 +687,7 @@
   teams: ["HII"]
   members: ["Zhang Xin", "Dai Meng"]
 - name: "Short Clip - If Your Other Half Gets Amnesia"
+  type: "Stage Clip"
   date: 2019-11-23
   language: "English"
   link: "https://twitter.com/siyazi48/status/1272100472489422849"
@@ -608,6 +695,7 @@
   teams: ["Z"]
   members: ["Long Yirui", "Yang Yuanyuan", "Nong Yanping", "Chen Guijun"]
 - name: "Short Clip - Seine River School Begins"
+  type: "Clip (Other)"
   date: 2020-05-16
   language: "English"
   link: "https://twitter.com/pearofshoes1/status/1261596680727609344"
@@ -615,6 +703,7 @@
   teams: ["G"]
   members: ["Chen Ke"]
 - name: "Short Clip - Li Jiaen Produce Camp Trainee First Impressions"
+  type: "Clip (Other)"
   date: 2020-05-13
   language: "English"
   link: "https://twitter.com/lijiaenpics/status/1260626104932589569"
@@ -622,6 +711,7 @@
   teams: ["HII"]
   members: ["Li Jiaen"]
 - name: "Short Clip - Li Yitong Tells KaHuang Fans to Die"
+  type: "Livestream"
   date: 2017-12-07
   language: "English"
   link: "https://twitter.com/siyazi48/status/1259093489716916224"
@@ -629,6 +719,7 @@
   teams: ["NII"]
   members: ["Li Yitong"]
 - name: "Short Clip - Chen Ke Produce Camp 2020 Introduction"
+  type: "Clip (Other)"
   date: 2020-05-08
   language: "English"
   link: "https://twitter.com/pearofshoes1/status/1258719278045335554"
@@ -636,6 +727,7 @@
   teams: ["G"]
   members: ["Chen Ke"]
 - name: "GNZ48 Team Z - Yang Yuanyuan's Letter - Long Yirui Birthday MC"
+  type: "Stage Clip"
   date: 2019-10-19
   language: "English"
   link: "https://twitter.com/siyazi48/status/1235160928569581569"
@@ -643,6 +735,7 @@
   teams: ["Z"]
   members: ["Yang Yuanyuan", "Long Yirui"]
 - name: "Election - Li Yitong SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=jroUw7imapo"
@@ -650,6 +743,7 @@
   teams: ["HII"]
   members: ["Li Yitong"]
 - name: "Election - Duan Yixuan SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=LEKczQrCoI0"
@@ -657,6 +751,7 @@
   teams: []
   members: ["Duan Yixuan"]
 - name: "Election - Sun Zhenni SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=_j7MA_0b0g0"
@@ -664,6 +759,7 @@
   teams: ["HII"]
   members: ["Sun Zhenni"]
 - name: "Election - Shen Mengyao SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=kN4o3NibvUY"
@@ -671,6 +767,7 @@
   teams: ["HII"]
   members: ["Shen Mengyao"]
 - name: "Election - Xu Yangyuzhuo SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=2vhHJArk4WY"
@@ -678,6 +775,7 @@
   teams: ["HII"]
   members: ["Xu Yangyuzhuo"]
 - name: "Election - Fei Qinyuan SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=QWVL0lwsG1Q"
@@ -685,6 +783,7 @@
   teams: ["HII"]
   members: ["Fei Qinyuan"]
 - name: "Election - Zhang Dansan SNH48 5th General Election Speech"
+  type: "Election Clip"
   date: 2018-08-06
   language: "English"
   link: "https://www.youtube.com/watch?v=J-fGKdas4yk"
@@ -692,6 +791,7 @@
   teams: ["X"]
   members: ["Zhang Dansan"]
 - name: "Variety - Read Mean Posts Ep. 1 - SNHello"
+  type: "Variety"
   date: 2018-08-10
   language: "English"
   link: "https://www.youtube.com/watch?v=JGwk9-Rfi8g"
@@ -699,6 +799,7 @@
   teams: ["SII", "NII", "X"]
   members: ["Feng Xiaofei", "Huang Tingting", "Wang Jialing", "Xie Tianyi", "Shao Xuecong"]
 - name: "Variety - Read Mean Posts Ep. 2 - SNHello"
+  type: "Variety"
   date: 2018-08-11
   language: "English"
   link: "https://www.youtube.com/watch?v=K1xwC5CJgAA"
@@ -706,6 +807,7 @@
   teams: ["SII", "NII", "HII"]
   members: ["Chen Si", "Zhang Yuxin", "Fei Qinyuan", "Yi Jiaai", "Yuan Yiqi", "Chen Jiaying"]
 - name: "Variety - Read Mean Posts Ep. 3 - SNHello"
+  type: "Variety"
   date: 2018-08-12
   language: "English"
   link: "https://www.youtube.com/watch?v=K1xwC5CJgAA"
@@ -713,6 +815,7 @@
   teams: ["SII", "HII", "X"]
   members: ["Jiang Shan", "Liu Ying", "Xu Yi", "Chen Wenyan", "Wang Xiaojia", "Yuan Yuzhen"]
 - name: "Variety - Read Mean Posts Ep. 4 - SNHello"
+  type: "Variety"
   date: 2018-08-13
   language: "English"
   link: "https://www.youtube.com/watch?v=sFZFl2VL6EI"
@@ -720,6 +823,7 @@
   teams: ["SII", "HII", "X"]
   members: ["Xu Chenchen", "Dai Meng", "Song Xinran", "Tao Boer", "Qian Beiting", "Pan Yingqi", "Yu Jiayi", "Chen Guanhui"]
 - name: "Variety - Read Mean Posts Ep. 5 - SNHello"
+  type: "Variety"
   date: 2018-08-14
   language: "English"
   link: "https://www.youtube.com/watch?v=VKU3KV0wKOE"
@@ -727,6 +831,7 @@
   teams: ["SII", "HII", "X"]
   members: ["Sun Rui", "Yang Yunyu", "Yang Bingyi", "Wang Shu", "Xu Yiren", "Li Yitong", "Jiang Shuting", "Ma Fan"]
 - name: "Variety - Read Mean Posts Ep. 6 - SNHello"
+  type: "Variety"
   date: 2018-08-15
   language: "English"
   link: "https://www.youtube.com/watch?v=NucC8TKiCgA"
@@ -734,6 +839,7 @@
   teams: ["SII", "HII", "X"]
   members: ["Mo Han", "Lin Siyi", "Liu Peixin", "Liu Zengyan", "Zhang Dansan", "Lin Nan", "He Xiaoyu"]
 - name: "Variety - Read Mean Posts Ep. 7 - SNHello"
+  type: "Variety"
   date: 2018-08-16
   language: "English"
   link: "https://www.youtube.com/watch?v=iOlFugO4_WA"
@@ -741,6 +847,7 @@
   teams: ["SII", "NII", "HII", "X"]
   members: ["Xu Han", "Feng Xinduo", "Hong Peiyun", "Li Zhao", "Li Yuqi", "Xie Ni", "Lin Xinyuan", "Zhang Yi"]
 - name: "Variety - Read Mean Posts Ep. 8 - SNHello"
+  type: "Variety"
   date: 2018-08-17
   language: "English"
   link: "https://www.youtube.com/watch?v=hMiqFhiL5Zk"
@@ -748,6 +855,7 @@
   teams: ["NII", "HII", "X"]
   members: ["Wan Lina", "Lu Ting", "Chen Yunling", "Guo Qianyun", "Xu Shiqi"]
 - name: "Variety - Attack On Bedrooms! Ep. 1 - SNHello"
+  type: "Variety"
   date: 2018-08-19
   language: "English"
   link: "https://www.youtube.com/watch?v=UfPnwAan7Ck"
@@ -755,6 +863,7 @@
   teams: ["SII", "NII", "HII"]
   members: ["Chen Si", "Lu Ting", "Fei Qinyuan"]
 - name: "Variety - Attack On Bedrooms! Ep. 2 - SNHello"
+  type: "Variety"
   date: 2018-08-20
   language: "English"
   link: "https://www.youtube.com/watch?v=ocYt0mbr5E4"
@@ -762,6 +871,7 @@
   teams: ["SII", "NII"]
   members: ["Jin Yingyue", "Lu Ting", "Chen Wenyan", "Xu Yi", "Liu Zengyan"]
 - name: "Variety - Attack On Bedrooms! Ep. 3 - SNHello"
+  type: "Variety"
   date: 2018-08-21
   language: "English"
   link: "https://www.youtube.com/watch?v=P-PH0vzefXQ"
@@ -769,6 +879,7 @@
   teams: ["SII", "NII", "HII"]
   members: ["Li Jiaen", "Lu Ting", "Wu Zhehan"]
 - name: "Variety - Attack On Bedrooms! Ep. 4 - SNHello"
+  type: "Variety"
   date: 2018-08-22
   language: "English"
   link: "https://www.youtube.com/watch?v=KcILvsTdgnc"
@@ -776,6 +887,7 @@
   teams: ["NII"]
   members: ["Yi Jiaai", "Lu Ting", "Feng Xinduo"]
 - name: "Variety - Attack On Bedrooms! Ep. 5 - SNHello"
+  type: "Variety"
   date: 2018-08-24
   language: "English"
   link: "https://www.youtube.com/watch?v=rX7D8tiXHOc"
@@ -783,6 +895,7 @@
   teams: ["SII", "NII", "X"]
   members: ["Lyu Yi", "Lu Ting", "Sun Rui"]
 - name: "Variety - Attack On Bedrooms! Ep. 6 - SNHello"
+  type: "Variety"
   date: 2018-08-25
   language: "English"
   link: "https://www.youtube.com/watch?v=K2pBmmkb644"
@@ -790,6 +903,7 @@
   teams: ["SII", "NII", "X"]
   members: ["Feng Xinduo", "Lu Ting", "Zhang Xin"]
 - name: "Variety - Attack On Bedrooms! Ep. 7 - SNHello"
+  type: "Variety"
   date: 2018-08-26
   language: "English"
   link: "https://www.youtube.com/watch?v=lsVqNNsmbmw"

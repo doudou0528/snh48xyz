@@ -4,11 +4,11 @@ import ContentList from '../components/content_list'
 
 const AllPage = (props) => {
   const { pageContext } = props
-  const { allContent, languages } = pageContext
+  const { allContent, languages, contentTypeOptions } = pageContext
 
   return (
     <Layout>
-      <ContentList allContent={allContent} languages={languages} />
+      <ContentList allContent={allContent} languages={languages} contentTypeOptions={contentTypeOptions} />
     </Layout>
   )
 }

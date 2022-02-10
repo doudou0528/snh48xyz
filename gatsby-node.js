@@ -46,10 +46,12 @@ let groupPages, teamPages, memberPages
 const ymlDoc = yaml.load(fs.readFileSync("./content/testcontent.yaml", "utf-8"))
   let allContent = []
   let languages = new Set()
+  let contentTypes = new Set()
   // Process all content
   ymlDoc.forEach((element) => {
     const contentObj = {
       name: element.name,
+      type: element.type,
       date: element.date,
       language: element.language,
       link: element.link,
@@ -59,6 +61,7 @@ const ymlDoc = yaml.load(fs.readFileSync("./content/testcontent.yaml", "utf-8"))
     }
     allContent.push(contentObj)
     languages.add(element.language)
+    contentTypes.add(element.type)
     // add to group content
     element.groups.forEach((group) => {
       const lowerGroup = group.toLowerCase()
@@ -89,13 +92,15 @@ const ymlDoc = yaml.load(fs.readFileSync("./content/testcontent.yaml", "utf-8"))
 exports.createPages = ({ actions }) => {
   const { createPage } = actions
   const languageOptions = Array.from(languages)
+  const contentTypeOptions = Array.from(contentTypes)
   // Create page with links to all content
   createPage({
       path: "/all",
       component: require.resolve("./src/templates/all.js"),
       context: {
           allContent: allContent,
-          languages: languageOptions
+          languages: languageOptions,
+          contentTypeOptions: contentTypeOptions
       }
   })
   // Create group pages
@@ -107,7 +112,8 @@ exports.createPages = ({ actions }) => {
         groupName: group.toUpperCase(),
         groupContent: groupPages[group]["content"],
         languages: languageOptions,
-        members: groupPages[group]["members"]
+        members: groupPages[group]["members"],
+        contentTypeOptions: contentTypeOptions
       }
     })
   })
@@ -120,7 +126,8 @@ exports.createPages = ({ actions }) => {
         teamName: team.toUpperCase(),
         teamContent: teamPages[team]["content"],
         languages: languageOptions,
-        members: teamPages[team]["members"]
+        members: teamPages[team]["members"],
+        contentTypeOptions: contentTypeOptions
       }
     })
   })
@@ -132,7 +139,8 @@ exports.createPages = ({ actions }) => {
       context: {
         membersWithName: memberPages[member]["membersWithName"],
         memberContent: memberPages[member]["content"],
-        languages: languageOptions
+        languages: languageOptions,
+        contentTypeOptions: contentTypeOptions
       }
     })
   })

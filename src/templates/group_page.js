@@ -11,7 +11,10 @@ const GroupPage = (props) => {
   const { groupName,
           groupContent,
           languages,
-          members } = pageContext
+          members,
+          contentTypeOptions } = pageContext
+    
+    console.log(contentTypeOptions)
 
   return (
     <Layout>
@@ -21,7 +24,7 @@ const GroupPage = (props) => {
         <div css={tw`mt-2 mb-2 px-4 pt-4 pb-2 border-2 border-solid border-gray-100 rounded`}>
         <MembersList members={members} />
         </div>
-        <ContentList allContent={groupContent} languages={languages} />
+        <ContentList allContent={groupContent} languages={languages} contentTypeOptions={contentTypeOptions} />
         <div className="internal" css={tw`space-y-10 pt-12`}>
             <Link to="/groups">Back to all groups</Link>
         </div>

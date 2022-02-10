@@ -27,7 +27,7 @@ const ContentPaginate = (props) => {
     </div>);
 
   const PageButtons = () => (
-    <div css={tw`space-x-2 pt-6 text-sm`}>
+    <div css={tw`space-x-2 pt-4 text-sm`}>
         {<button disabled={page === 0} css={tw`bg-gray-100 hover:cursor-pointer
             disabled:cursor-not-allowed outline-none border-none rounded px-2 py-2`}
             onClick={(e) => setPage(page-1)}>

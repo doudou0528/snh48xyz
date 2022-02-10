@@ -8,7 +8,7 @@ import parse from 'html-react-parser'
 
 const MemberPage = (props) => {
   const { pageContext } = props
-  const { membersWithName, memberContent, languages } = pageContext
+  const { membersWithName, memberContent, languages, contentTypeOptions } = pageContext
 
   return (
     <Layout>
@@ -61,7 +61,7 @@ const MemberPage = (props) => {
             </div>
           )}
       </div>
-      <ContentList allContent={memberContent} languages={languages} />
+      <ContentList allContent={memberContent} languages={languages} contentTypeOptions={contentTypeOptions} />
       <div className="internal" css={tw`space-y-10 pt-12`}>
           <Link to="/groups">Back to all groups</Link>
       </div>

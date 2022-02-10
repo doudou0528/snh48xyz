@@ -4,7 +4,40 @@ import ContentPaginate from './content_paginate';
 
 const ContentList = (props) => {
   const [curLanguage, setCurLanguage] = useState("English");
-  const { allContent, languages } = props;
+  const { allContent, languages, contentTypeOptions } = props;
+  // can't use new Set() because it's mutable, just use list for now
+  const [selectedContentTypes, setSelectedContentTypes] = useState(contentTypeOptions);
+
+  const handleCheckContent = (event) => {
+    const target = event.target
+    const type = target.id
+    const checked = target.checked
+    if (checked) {
+      setSelectedContentTypes(
+        selectedContentTypes => [...selectedContentTypes, type]
+      )
+    }
+    else {
+      console.log("!")
+      setSelectedContentTypes(
+        selectedContentTypes.filter((item) => item !== type)
+      )
+    }
+  }
+
+  const ContentFilter = () => (
+    <div css={tw`text-xs pt-4 space-x-2`}>
+      {contentTypeOptions.map((option) => 
+        <div css={tw`inline text-gray-500`} key={option}>
+          <input type="checkbox" value="" id={option}
+          css={tw`border border-solid border-gray-300 rounded`}
+          onChange={handleCheckContent}
+          checked={selectedContentTypes.includes(option)} />
+          <label htmlFor={option}>{option}</label>
+        </div>
+      )}
+    </div>
+  )
 
   const LanguageFilter = () => (
     <select className="form-select" css={tw`
@@ -18,8 +51,11 @@ const ContentList = (props) => {
       {languages.map((opt) => 
         <option value={opt} key={opt}>{opt}</option>
       )}
-    </select>);
-  const filteredContent = allContent.filter(link => link.language === curLanguage);
+    </select>)
+  
+  const filteredContent = allContent.filter(item => 
+    item.language === curLanguage && selectedContentTypes.includes(item.type));
+
   const sortedContent = filteredContent.sort(
     (a,b) =>
       (new Date(b["date"])).getTime() - (new Date(a["date"])).getTime()
@@ -28,6 +64,7 @@ const ContentList = (props) => {
   return (
     <div>
         <LanguageFilter />
+        <ContentFilter />
         <ContentPaginate contentList={sortedContent} contentPerPage={9} />
     </div>
   )
