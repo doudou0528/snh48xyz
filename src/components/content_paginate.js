@@ -10,7 +10,7 @@ const ContentPaginate = (props) => {
   const pageSize = props.contentPerPage
 
   useEffect(() => {
-    var pages = []
+    let pages = []
     for (let i=0; i<contentList.length; i+=pageSize) {
       pages.push(contentList.slice(i, i+pageSize))
     }
