@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import ContentCard from './content_card';
 import tw from 'twin.macro'
+import PropTypes from 'prop-types'
 
 const ContentPaginate = (props) => {
   const [page, setPage] = useState(0)
@@ -60,3 +61,14 @@ const ContentPaginate = (props) => {
 }
 
 export default ContentPaginate
+
+ContentPaginate.propTypes = {
+  contentList: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    date: PropTypes.string,
+    groups: PropTypes.arrayOf(PropTypes.string),
+    teams: PropTypes.arrayOf(PropTypes.string),
+    members: PropTypes.arrayOf(PropTypes.string)
+  })),
+  contentPerPage: PropTypes.number
+}

@@ -3,6 +3,7 @@ import tw from 'twin.macro'
 import GroupTag from './group_tag'
 import TeamTag from './team_tag'
 import MemberTag from './member_tag'
+import PropTypes from 'prop-types'
 
 const GroupTags = (props) => (
     <span css={tw`space-x-2`}>{props.groups.map((group) => 
@@ -54,3 +55,11 @@ const ContentCard = (props) => {
 }
 
 export default ContentCard
+
+ContentCard.propTypes = {
+    name: PropTypes.string,
+    date: PropTypes.string,
+    groups: PropTypes.arrayOf(PropTypes.string),
+    teams: PropTypes.arrayOf(PropTypes.string),
+    members: PropTypes.arrayOf(PropTypes.string)
+}

@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import tw from 'twin.macro'
-import ContentPaginate from './content_paginate';
+import ContentPaginate from './content_paginate'
+import PropTypes from 'prop-types'
 
 const ContentList = (props) => {
   const [curLanguage, setCurLanguage] = useState("English");
@@ -18,7 +19,6 @@ const ContentList = (props) => {
       )
     }
     else {
-      console.log("!")
       setSelectedContentTypes(
         selectedContentTypes.filter((item) => item !== type)
       )
@@ -71,3 +71,15 @@ const ContentList = (props) => {
 }
 
 export default ContentList
+
+ContentList.propTypes = {
+  allContent: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    date: PropTypes.string,
+    groups: PropTypes.arrayOf(PropTypes.string),
+    teams: PropTypes.arrayOf(PropTypes.string),
+    members: PropTypes.arrayOf(PropTypes.string)
+  })),
+  languages: PropTypes.arrayOf(PropTypes.string),
+  contentTypeOptions: PropTypes.arrayOf(PropTypes.string)
+}

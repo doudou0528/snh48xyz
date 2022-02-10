@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 //import tw from 'twin.macro'
+import PropTypes from 'prop-types'
 
 const LinkWrapper = ({ showLink, link, children}) => {
     if (showLink) {
@@ -31,3 +32,7 @@ const MemberTag = (props) => {
   
   export default MemberTag
   
+MemberTag.propTypes = {
+    memberName: PropTypes.string,
+    showLink: PropTypes.bool
+}
