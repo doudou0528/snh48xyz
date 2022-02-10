@@ -36,6 +36,7 @@ Edit the YAML file in `content` with the following information.
 
 ```
 - name: "test"
+  type: "Variety"
   date: 2021-02-19
   language: "English"
   link: "https://www.youtube.com/watch?v=PBuxvfO32zo"
