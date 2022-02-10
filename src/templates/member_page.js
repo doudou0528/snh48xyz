@@ -14,7 +14,7 @@ const MemberPage = (props) => {
     <Layout>
       <div css={tw`pb-4`}>
           {membersWithName.map((member) =>
-            <div css={tw`shadow px-8 py-2 rounded text-sm`}>
+            <div css={tw`shadow px-8 py-2 rounded text-sm`} key={member["tname"]+member["pinyin"]}>
               <h3>
                 <TeamTag team={member["tname"]} showLink={true} />
                 <span css={tw`ml-4`}>{member["pinyin"]}</span>
