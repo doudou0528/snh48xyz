@@ -80,6 +80,6 @@ ContentList.propTypes = {
     teams: PropTypes.arrayOf(PropTypes.string),
     members: PropTypes.arrayOf(PropTypes.string)
   })),
-  languages: PropTypes.arrayOf(PropTypes.string),
-  contentTypeOptions: PropTypes.arrayOf(PropTypes.string)
+  languages: PropTypes.arrayOf(PropTypes.string).isRequired,
+  contentTypeOptions: PropTypes.arrayOf(PropTypes.string).isRequired
 }

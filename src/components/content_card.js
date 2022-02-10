@@ -59,7 +59,7 @@ export default ContentCard
 ContentCard.propTypes = {
     name: PropTypes.string,
     date: PropTypes.string,
-    groups: PropTypes.arrayOf(PropTypes.string),
-    teams: PropTypes.arrayOf(PropTypes.string),
-    members: PropTypes.arrayOf(PropTypes.string)
+    groups: PropTypes.arrayOf(PropTypes.string).isRequired,
+    teams: PropTypes.arrayOf(PropTypes.string).isRequired,
+    members: PropTypes.arrayOf(PropTypes.string).isRequired
 }

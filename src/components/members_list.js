@@ -19,10 +19,6 @@ export default MembersList
 
 MembersList.propTypes = {
     members: PropTypes.arrayOf(PropTypes.shape({
-        name: PropTypes.string,
-        date: PropTypes.string,
-        groups: PropTypes.arrayOf(PropTypes.string),
-        teams: PropTypes.arrayOf(PropTypes.string),
-        members: PropTypes.arrayOf(PropTypes.string)
-    }))
+        pinyin: PropTypes.string
+    })).isRequired
 }

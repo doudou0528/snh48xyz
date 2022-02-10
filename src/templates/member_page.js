@@ -5,6 +5,7 @@ import ContentList from '../components/content_list'
 import TeamTag from '../components/team_tag'
 import tw from 'twin.macro'
 import parse from 'html-react-parser'
+import PropTypes from 'prop-types'
 
 const MemberPage = (props) => {
   const { pageContext } = props
@@ -70,3 +71,34 @@ const MemberPage = (props) => {
 }
 
 export default MemberPage
+
+MemberPage.propTypes = {
+  memberContent: PropTypes.arrayOf(PropTypes.shape({
+    name: PropTypes.string,
+    date: PropTypes.string,
+    groups: PropTypes.arrayOf(PropTypes.string),
+    teams: PropTypes.arrayOf(PropTypes.string),
+    members: PropTypes.arrayOf(PropTypes.string)
+  })),
+  languages: PropTypes.arrayOf(PropTypes.string),
+  membersWithName: PropTypes.arrayOf(PropTypes.shape({
+      tname: PropTypes.string, // Team name
+      sname: PropTypes.string, // Simplified Chinese name
+      pinyin: PropTypes.string, // Pinyin name
+      weibo_uid: PropTypes.string,
+      abbr: PropTypes.string,
+      nickname: PropTypes.string,
+      birth_day: PropTypes.string,
+      birth_place: PropTypes.string,
+      hobby: PropTypes.string,
+      specialty: PropTypes.string,
+      catch_phrase: PropTypes.string,
+      blood_type: PropTypes.string,
+      star_sign_12: PropTypes.string,
+      ranking: PropTypes.string,
+      pname: PropTypes.string, // Generation
+      join_day: PropTypes.string,
+      experience: PropTypes.string
+  })),
+  contentTypeOptions: PropTypes.arrayOf(PropTypes.string)
+}
