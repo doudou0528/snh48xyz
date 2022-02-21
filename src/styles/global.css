@@ -11,6 +11,19 @@
     text-decoration: none;
 }
 
+.member-links a {
+    color: #7c7c7c;
+    padding: 0.5em 0.5em 0.25em 0.5em;
+    border-bottom: 0.1em solid #e0e0e0;
+    text-decoration: none;
+}
+
+.member-links a:hover {
+    background: #e0e0e0;
+    border-bottom: -2em solid #e0e0e0;
+    text-decoration: none;
+}
+
 .external a {
     color: #000;
     padding: 0.25em 0.25em 0.25em 0.25em;

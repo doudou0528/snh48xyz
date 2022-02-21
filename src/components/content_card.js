@@ -18,7 +18,7 @@ const TeamTags = (props) => (
 );
 
 const MemberLinks = (props) => (
-    <div className="internal" css={tw`pt-2 pb-4 space-x-2 px-2 shadow-sm rounded text-xs leading-8`}>
+    <div className="member-links" css={tw`pt-2 pb-2 space-x-2 px-2 border-2 border-l-0 border-r-0 border-solid border-gray-100 text-xs leading-8`}>
         {props.members.map((member) =>
             <MemberTag memberName={member} showLink={true} key={member} />
         )}
@@ -32,23 +32,30 @@ const ContentCard = (props) => {
     linkBox = <a href={props.link}>Link 🔗</a>
   } else {
     linkBox =
-    <button css={tw`bg-purple-600 text-sm hover:cursor-pointer
-      font-semibold text-purple-100 outline-none border-none rounded px-2 py-2`}
+    <button css={tw`bg-pink-200 text-sm hover:cursor-pointer
+    text-pink-700 outline-none border border-solid border-pink-300 px-2 py-2`}
      onClick={(e) => setLinkIsRevealed(true)}>Reveal Link 🔗</button>
   }
 
   return (
     <div css={tw`drop-shadow-lg shadow p-5 rounded-md`}>
-        <span css={tw`bg-gray-50 p-2`}>{props.date}</span>
-        <h4>{props.name}</h4>
-        <div css={tw`space-x-2 pb-6 flex flex-wrap gap-y-6`}>
+        <div css={tw`grid lg:grid-cols-2 sm:grid-cols-1 gap-y-6`}>
+            <div css={tw`xl:col-span-1 sm:col-span-2`}>
+                <span css={tw`bg-gray-100 text-gray-500 border-solid border border-gray-200 p-2`}>{props.date}</span>
+            </div>
+            <div css={tw`xl:col-span-1 sm:col-span-2 place-self-end`}>
             <GroupTags groups={props.groups} />
-            <TeamTags teams={props.teams} />
+            </div>
         </div>
+        <h4 css={tw`text-gray-700`}>{props.name}</h4>
         <MemberLinks members={props.members} />
-        <div css={tw`space-x-2 pt-4`} className="external">
-            <span>{"->"}</span>
-        {linkBox}
+        <div css={tw`grid lg:grid-cols-4 sm:grid-cols-1 gap-y-6 w-full`}>
+            <div css={tw`xl:col-span-1 space-x-2 flex flex-wrap gap-y-6 mt-4`}>
+                <TeamTags teams={props.teams} />
+            </div>
+            <div css={tw`xl:col-span-3 pt-2 place-self-end`} className="external">
+                {linkBox}
+            </div>
         </div>
     </div>
   )
