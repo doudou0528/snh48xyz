@@ -19,8 +19,8 @@ const GroupTag = (props) => {
     <LinkWrapper showLink={props.showLink} link={link}>
         <span css={[tw`p-2 inline`,
             group === "SNH48" && tw`bg-snhblue`,
-            group === "GNZ48" && tw`bg-green-100`,
-            group === "BEJ48" && tw`bg-pink-100`,
+            group === "GNZ48" && tw`bg-gnzgreen text-green-50`,
+            group === "BEJ48" && tw`bg-bejpink text-pink-50`,
             group === "CKG48" && tw`bg-yellow-100`,
         ]}>
             {group}

@@ -11,6 +11,8 @@ module.exports = {
     extend: {
       colors: {
         snhblue: '#63caf3',
+        gnzgreen: '#7abe2a',
+        bejpink: '#f84972'
       },
     },
   },
