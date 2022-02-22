@@ -910,3 +910,827 @@
   groups: ["SNH48"]
   teams: ["NII"]
   members: ["Liu Juzi", "Lu Ting", "Zhang Yi"]
+- name: "Short Clip - \"That's a guy? Why??\""
+  type: "Livestream"
+  date: 2022-02-07
+  language: "English"
+  link: "https://www.youtube.com/watch?v=TRBNtfiPHRk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian"]
+- name: "Short Clip - \"That's a guy? Why??\""
+  type: "Livestream"
+  date: 2022-02-07
+  language: "German"
+  link: "https://www.youtube.com/watch?v=TRBNtfiPHRk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian"]
+- name: "Short Clip - PV ( + 如果的事 )"
+  type: "Clip (Other)"
+  date: 2021-10-27
+  language: "German"
+  link: "https://www.youtube.com/watch?v=TRBNtfiPHRk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian", "Hu Xiaohui"]
+- name: "Short Clip - PV ( + 如果的事 )"
+  type: "Clip (Other)"
+  date: 2021-10-27
+  language: "English"
+  link: "https://www.youtube.com/watch?v=TRBNtfiPHRk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian", "Hu Xiaohui"]
+- name: "Clip - Why don't you call me Jiejie?"
+  type: "Livestream"
+  date: 2021-10-17
+  language: "English"
+  link: "https://www.youtube.com/watch?v=WBfM8TdlDgY"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Liu Shuxian", "Duan Yixuan"]
+- name: "Clip - Why don't you call me Jiejie?"
+  type: "Livestream"
+  date: 2021-10-17
+  language: "German"
+  link: "https://www.youtube.com/watch?v=WBfM8TdlDgY"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Liu Shuxian", "Duan Yixuan"]
+- name: "NaiBao 2.0? - Zhang YuXin, Liu ShuXian Introduction Skit"
+  type: "Stage Clip"
+  date: 2021-09-22
+  language: "German"
+  link: "https://www.youtube.com/watch?v=WBfM8TdlDgY"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian", "Zhang Yuxin"]
+- name: "NaiBao 2.0? - Zhang YuXin, Liu ShuXian Introduction Skit"
+  type: "Stage Clip"
+  date: 2021-09-22
+  language: "English"
+  link: "https://www.youtube.com/watch?v=WBfM8TdlDgY"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Liu Shuxian", "Zhang Yuxin"]
+- name: "MC Clip - Don't worry, my mom knows"
+  type: "MC"
+  date: 2021-09-12
+  language: "English"
+  link: "https://www.youtube.com/watch?v=KggxlLqZPPE"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Shen Mengyao", "Zhang Xin"]
+- name: "MC Clip - Don't worry, my mom knows"
+  type: "MC"
+  date: 2021-09-12
+  language: "German"
+  link: "https://www.youtube.com/watch?v=KggxlLqZPPE"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Shen Mengyao", "Zhang Xin"]
+- name: "MC Clip - I want to hear DDD read..."
+  type: "MC"
+  date: 2021-09-01
+  language: "German"
+  link: "https://www.youtube.com/watch?v=43KGVKeDLO8"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Duan Yixuan"]
+- name: "MC Clip - I want to hear DDD read..."
+  type: "MC"
+  date: 2021-09-01
+  language: "English"
+  link: "https://www.youtube.com/watch?v=43KGVKeDLO8"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Duan Yixuan"]
+- name: "Dialogue - Hold Me Tight"
+  type: "Stage Clip"
+  date: 2021-08-15
+  language: "English"
+  link: "https://www.youtube.com/watch?v=PcfdoxgIUkg"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Duan Yixuan", "Liu Zengyan"]
+- name: "Dialogue - Hold Me Tight"
+  type: "Stage Clip"
+  date: 2021-08-15
+  language: "German"
+  link: "https://www.youtube.com/watch?v=PcfdoxgIUkg"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Duan Yixuan", "Liu Zengyan"]
+- name: "Short Clip - Double Standards"
+  type: "Livestream"
+  date: 2021-08-21
+  language: "English"
+  link: "https://www.youtube.com/watch?v=KQ33nNYd8Mk"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Liu Shuxian", "Hu Xiaohui"]
+- name: "Short Clip - Double Standards"
+  type: "Livestream"
+  date: 2021-08-21
+  language: "German"
+  link: "https://www.youtube.com/watch?v=KQ33nNYd8Mk"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Liu Shuxian", "Hu Xiaohui"]
+- name: "SNHello Episode 6"
+  type: "Variety"
+  date: 2015-05-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=RgjGsZ_HMmc"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Xu Zixuan", "Wu Zhehan", "Ju Jingyi", "Yuan Yuzhen", "Wan Lina", "Zhao Jiamin", "Qiu Xinyi", "Xu Jiaqi"]
+- name: "SNHello Episode 7"
+  type: "Variety"
+  date: 2015-05-14
+  language: "English"
+  link: "https://www.youtube.com/watch?v=ZTrq8_zWzu0"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Zhang Yuge", "Chen Guanhui", "Qian Beiting", "Xu Chenchen", "Dai Meng", "Zeng Yanfen", "Xu Jiaqi"]
+- name: "SNHello Episode 8"
+  type: "Variety"
+  date: 2015-07-31
+  language: "English"
+  link: "https://www.youtube.com/watch?v=V4H-kqM6MwQ"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Zhang Yuge", "Mo Han", "Li Yuqi", "Dai Meng", "Xu Chenchen", "Wen Jingjie"]
+- name: "SNHello Episode 9"
+  type: "Variety"
+  date: 2015-09-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=riNaV2pDAeU"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Wan Lina", "Zhao Yue", "Ju Jingyi", "Lin Siyi", "Zeng Yanfen", "Dai Meng", "Jiang Yun", "Huang Tingting", "Lu Ting", "Xu Chenchen"]
+- name: "SNHello Episode 12 (Korea)"
+  type: "Variety"
+  date: 2015-12-31
+  language: "English"
+  link: "https://www.youtube.com/watch?v=Z-hbpT1cs-Q"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Gong Shiqi", "Zhao Jiamin", "Zhang Yuge", "Li Yitong", "Ju Jingyi"]
+- name: "Night Butterfly: A run-down by Li YiTong"
+  type: "Clip (Other)"
+  date: 2016-03-22
+  language: "English"
+  link: "https://www.youtube.com/watch?v=-JMcQar1r5A"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Li Yitong"]
+- name: "Lu Ting (Interview for 3rd SNH48 Election)"
+  type: "Clip (Other)"
+  date: 2016-07-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=3AFXJUlusrI"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Lu Ting"]
+- name: "GNZone Episode 7"
+  type: "Variety"
+  date: 2016-08-29
+  language: "English"
+  link: "https://www.youtube.com/watch?v=o3N8wXVpAZw"
+  groups: ["GNZ48"]
+  teams: ["G"]
+  members: ["Lin Jiapei", "Zeng Aijia", "Yang Qingying", "Gao Yuanjing"]
+- name: "20210912 SNH48 TEAM HII MC4 — Feng Sijia Cut"
+  type: "MC"
+  date: 2021-09-12
+  language: "English"
+  link: "https://www.youtube.com/watch?v=KKUFI_pPRh4"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Feng Sijia"]
+- name: "DanKe- The sweet MC compilations in January of 2018"
+  type: "MC"
+  date: 2018-05-04
+  language: "English"
+  link: "https://www.youtube.com/watch?v=PFC4GnXD7d4"
+  groups: ["GNZ48"]
+  teams: ["G", "NIII"]
+  members: ["Chen Ke", "Zheng Danni"]
+- name: "Short Clip - SNH48 5th Election Team SII Dai Meng Promo"
+  type: "Clip (Other)"
+  date: 2018-05-29
+  language: "English"
+  link: "https://www.youtube.com/watch?v=h6QSD8yeJjc"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "MV BTS - Princess's Cloak Behind the scenes"
+  type: "Clip (Other)"
+  date: 2017-02-07
+  language: "English"
+  link: "https://www.youtube.com/watch?v=SalqGXvjkSQ"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII", "X"]
+  members: ["Dai Meng", "Mo Han", "Qiu Xinyi", "Xu Jiaqi", "Zhang Yuge", "Feng Xinduo", "Huang Tingting", "Li Yitong", "Lu Ting", "Lin Siyi", "Ju Jingyi",  "Wan Lina", "Zeng Yanfen", "Liu Jiongran", "Zhang Dansan"]
+- name: "Election - Li Yitong 3rd General Election Video Appeal"
+  type: "Election Appeal"
+  date: 2016-05-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=dpGIZ30PLkA"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Li Yitong"]
+- name: "Election - Wan Lina 2nd General Election Speech"
+  type: "Election Clip"
+  date: 2015-07-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=seqJaHOysFc"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Wan Lina"]
+- name: "Election - Ju Jingyi 2nd General Election Speech"
+  type: "Election Clip"
+  date: 2015-07-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=3ce7jKN-g2c"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "Election - Zhang Yuge 2nd General Election Speech"
+  type: "Election Clip"
+  date: 2015-07-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=MvdpVFsUgpI"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Zhang Yuge"]
+- name: "Election - Zeng Yanfen 2nd General Election Speech"
+  type: "Election Clip"
+  date: 2015-07-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=_Dly7v8pJTE"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Zeng Yanfen"]
+- name: "Stage Clip - SNH48 Team NII \"Don't Touch\""
+  type: "Stage Clip"
+  date: 2016-07-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=JM8p_7R_iRk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Wan Lina", "He Xiaoyu", "Huang Tingting"]
+- name: "Election - Liu Jiongran 3rd General Election Speech"
+  type: "Election Clip"
+  date: 2016-08-06
+  language: "English"
+  link: "https://www.youtube.com/watch?v=0AjjG68G67c"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Liu Jiongran"]
+- name: "SNH48 Team SII - BEJ48 Tour MC"
+  type: "MC"
+  date: 2016-06-24
+  language: "English"
+  link: "https://www.youtube.com/watch?v=NIvaQ1dxvkk"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Yuan Yuzhen", "Mo Han", "Yuan Danni", "Xu Chenchen", "Xu Jiaqi", "Wu Zhehan", "Qian Beiting", "Xu Zixuan", "Jiang Yun"]
+- name: "SNH48 Team SII - BEJ48 Tour MC"
+  type: "MC"
+  date: 2016-06-24
+  language: "Vietnamese"
+  link: "https://www.youtube.com/watch?v=NIvaQ1dxvkk"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Yuan Yuzhen", "Mo Han", "Yuan Danni", "Xu Chenchen", "Xu Jiaqi", "Wu Zhehan", "Qian Beiting", "Xu Zixuan", "Jiang Yun"]
+- name: "SNH48 Team SII - 20180430 Dai Meng Birthday Stage"
+  type: "Stage Clip"
+  date: 2018-04-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=_uP0CslFCkE"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "Election - Dai Meng 5th General Election Speech"
+  type: "Election Clip"
+  date: 2018-07-31
+  language: "English"
+  link: "https://www.youtube.com/watch?v=W46vMS77Hz0"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "SNH48 Team NII 20161204 MC (Ju Jingyi cut)"
+  type: "MC"
+  date: 2016-12-04
+  language: "English"
+  link: "https://www.youtube.com/watch?v=gcB9puxQ2TA"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "SNH48 Team SII 20171003 District 48 MC1 (Kiki cut)"
+  type: "MC"
+  date: 2017-10-03
+  language: "English"
+  link: "https://www.youtube.com/watch?v=9d8QvalVh0I"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi"]
+- name: "SNH48 Idol Challenge Episode 2"
+  type: "Variety"
+  date: 2016-07-21
+  language: "English"
+  link: "https://www.youtube.com/watch?v=6Pz9IIrz418"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII"]
+  members: ["Mo Han", "Yuan Yuzhen", "Qian Beiting", "Chen Yixin", "Xie Ni", "Xu Han"]
+- name: "Stage Clip - SNH48 Team SII - \"Soul Messenger\""
+  type: "Stage Clip"
+  date: 2018-02-23
+  language: "English"
+  link: "https://www.youtube.com/watch?v=7NJyDJgxLmA"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Zhang Yuge", "Wu Zhehan", "Xu Zixuan", "Jiang Yun"]
+- name: "Stage Clip - BEJ48 Team B - \"Show\""
+  type: "Stage Clip"
+  date: 2018-07-17
+  language: "English"
+  link: "https://www.youtube.com/watch?v=lm7hr0YS0Rg"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Duan Yixuan", "Qing Yuwen", "Tian Shuli"]
+- name: "Stage Clip - SNH48 7SENSES - \"Moonlight\""
+  type: "Stage Clip"
+  date: 2018-04-28
+  language: "English"
+  link: "https://www.youtube.com/watch?v=MkbIhNr06d8"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII", "X"]
+  members: ["Dai Meng", "Chen Lin", "Kong Xiaoyin", "Xu Jiaqi", "Xu Yangyuzhuo", "Zhao Yue", "Zhang Yuge"]
+- name: "Election - Ju Jingyi 3rd General Election Speech"
+  type: "Election Clip"
+  date: 2016-07-31
+  language: "English"
+  link: "https://www.youtube.com/watch?v=7376LX7g57E"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "MV - Ju Jingyi - \"Yes or No\""
+  type: "MV"
+  date: 2017-06-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=RBM6Qjum340"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "Election - Li Yitong 4th General Election Speech"
+  type: "Election Clip"
+  date: 2017-07-29
+  language: "English"
+  link: "https://www.youtube.com/watch?v=iBA5vreJHLk"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Li Yitong"]
+- name: "Interview - SNH48 3rd General Election Top 3 Sina Interview"
+  type: "Interview"
+  date: 2016-08-11
+  language: "English"
+  link: "https://www.youtube.com/watch?v=THTTGlzm3TI"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Li Yitong", "Ju Jingyi", "Huang Tingting"]
+- name: "Interview - SNH48 Ju Jingyi Entertainment News Interview"
+  type: "Interview"
+  date: 2015-08-22
+  language: "English"
+  link: "https://www.youtube.com/watch?v=RV9kdimhR3k"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "B50 - SNH48 Team NII - 光之轨迹 Light Trajectory"
+  type: "B50 Clip"
+  date: 2018-02-03
+  language: "English"
+  link: "https://www.youtube.com/watch?v=_g93j3ikW8E"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Li Yitong", "Wan Lina", "Huang Tingting", "Zhao Yue", "Lu Ting", "Feng Xinduo"]
+- name: "Election - Feng Xinduo 4th General Election Speech"
+  type: "Election Clip"
+  date: 2017-11-28
+  language: "English"
+  link: "https://www.youtube.com/watch?v=sQHeicvXxPs"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Feng Xinduo"]
+- name: "SNH48 'Motianji' Micro Movie"
+  type: "Variety"
+  date: 2015-04-29
+  language: "English"
+  link: "https://www.youtube.com/watch?v=Dt2wAu94Rco"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Zhao Jiamin", "Qian Beiting", "Xu Jiaqi", "Ju Jingyi", "Wu Zhehan"]
+- name: "Election - Ju Jingyi - \"Her Royal Highness\" at SNH48 3rd General Election"
+  type: "Election Clip"
+  date: 2016-07-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=Fq1NWmM-NRQ"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "Variety - BEJ48 1048 Show 20160625"
+  type: "Variety"
+  date: 2016-06-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=FwOm8dJr7Og"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Chen Qiannan", "Su Shanshan", "Li Zi", "Li Xiang"]
+- name: "Variety - SNH48 Team X Yamaha Musical Instruments Training Diary Ep. 6"
+  type: "Variety"
+  date: 2016-08-10
+  language: "English"
+  link: "https://www.youtube.com/watch?v=TgiWMkdx6Ro"
+  groups: ["SNH48"]
+  teams: ["X"]
+  members: ["Wang Jialing", "Zhang Dansan", "Song Xinran", "Xie Tianyi", "Yang Yunyu", "Li Zhao"]
+- name: "Variety - SNH48 国民美少女 Xu Jiaqi Cut 20160117"
+  type: "Variety"
+  date: 2016-01-17
+  language: "English"
+  link: "https://www.youtube.com/watch?v=wb6Fcng0zro"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi"]
+- name: "Election - Song Xinran 3rd General Election Appeal Video"
+  type: "Election Appeal"
+  date: 2016-07-15
+  language: "English"
+  link: "https://www.youtube.com/watch?v=3M7E1r3FjoY"
+  groups: ["SNH48"]
+  teams: ["X"]
+  members: ["Song Xinran"]
+- name: "Variety - SNH48 Dead End Travel Ep. 11"
+  type: "Variety"
+  date: 2016-07-13
+  language: "English"
+  link: "https://www.youtube.com/watch?v=ScMk8ipw_jA"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi", "Mo Han", "Sun Rui"]
+- name: "Stage Clip - BEJ48 Team B - \"Spy\""
+  type: "Stage Clip"
+  date: 2018-07-07
+  language: "English"
+  link: "https://www.youtube.com/watch?v=FqS1ZSwdxCQ"
+  groups: ["BEJ48"]
+  teams: []
+  members: ["Qing Yuwen", "Chen Meijun"]
+- name: "Stage Clip - GNZ48 Team G - \"Gravity\""
+  type: "Stage Clip"
+  date: 2018-05-02
+  language: "English"
+  link: "https://www.youtube.com/watch?v=VZ_PDlF1XBc"
+  groups: ["GNZ48"]
+  teams: ["G"]
+  members: ["Zeng Aijia", "Luo Hanyue", "Chen Ke", "Gao Yuanjing", "Chen Junhong", "Xie Leilei", "Zhu Yixin", "Zhang Qiongyu", "Lin Jiapei", "Yang Qingying", "Chen Jiaying", "Chen Yuqi", "Fang Xiaoyu", "Cheng Yixin", "Li Qinjie", "Liang Ke", "Huang Lirong"]
+- name: "Short Clip - Everybody Say Zuo Jingyuan is..."
+  type: "Clip (Other)"
+  date: 2018-08-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=gD6aJSJyQp0"
+  groups: ["GNZ48"]
+  teams: ["NIII"]
+  members: ["Zuo Jingyuan"]
+- name: "Short Clip - GNZ48 Members Trolling Each Other"
+  type: "Clip (Other)"
+  date: 2018-08-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=JYe0R-vNGoc"
+  groups: ["GNZ48"]
+  teams: ["G", "NIII", "Z"]
+  members: ["Xie Ailin", "Fu Bingbing", "Tang Lijia", "Chen Nanxi", "Zhang Ziying", "Lin Zhi", "Zuo Jingyuan", "Chen Ke", "Huang Chuyin", "Xie Leilei", "Chen Junhong", "Zheng Danni", "Zhang Qiuyi", "Gao Yuanjing", "Wang Muyuan", "Liang Wanlin", "Long Yirui", "He Mengyao", "Chen Guijun", "Zuo Jiaxin"]
+- name: "MV BTS - SNH48 \"Sweet and Bitter\""
+  type: "Clip (Other)"
+  date: 2015-10-08
+  language: "English"
+  link: "https://www.youtube.com/watch?v=bDxZ5NbJlL0"
+  groups: ["SNH48"]
+  teams: ["SII", "NII"]
+  members: ["Li Yitong", "Zhao Jiamin", "Ju Jingyi"]
+- name: "MV BTS - SNH48 \"Princess's Cloak\" Red Version"
+  type: "Clip (Other)"
+  date: 2016-09-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=byeb7nUoagA"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII", "X"]
+  members: ["Dai Meng", "Mo Han", "Qiu Xinyi", "Xu Jiaqi", "Zhang Yuge", "Feng Xinduo", "Huang Tingting", "Li Yitong", "Lu Ting", "Lin Siyi", "Ju Jingyi",  "Wan Lina", "Zeng Yanfen", "Liu Jiongran", "Zhang Dansan"]
+- name: "SNH48 1st Documentary - 少女的巴别塔 Girls of Babel Tower"
+  type: "Documentary"
+  date: 2017-07-15
+  language: "English"
+  link: "https://www.youtube.com/watch?v=GeHgQHS1d34"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII"]
+  members: ["Zhao Jiamin", "Wu Zhehan", "Lu Ting", "Feng Xinduo", "Ju Jingyi", "Lin Siyi", "Gong Shiqi", "Li Yitong", "Qiu Xinyi", "Yi Jiaai", "Luo Lan", "Hao Wanqing", "Xu Zixuan", "Mo Han", "Shao Xuecong", "Zhang Dansan", "Xie Ni", "Yang Huiting", "Zhao Yue", "Luo Lan"]
+- name: "Short Clip - A Quick Recommendation Plan Book of Feng Xinduo Ch. 3"
+  type: "Clip (Other)"
+  date: 2017-02-16
+  language: "English"
+  link: "https://www.youtube.com/watch?v=_Z5rsQhqCnQ"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Feng Xinduo"]
+- name: "馮薪朵快速才ススメ計画書 第三章"
+  type: "Clip (Other)"
+  date: 2017-02-16
+  language: "Japanese"
+  link: "https://www.youtube.com/watch?v=qEo9oq12Rbg"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Feng Xinduo"]
+- name: "Short Clip - A Quick Recommendation Plan Book of Feng Xinduo Ch. 2"
+  type: "Clip (Other)"
+  date: 2016-12-04
+  language: "English"
+  link: "https://www.youtube.com/watch?v=lm9CUKEqrNU"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Feng Xinduo"]
+- name: "SNH48 2nd Documentary - 比翼齐飞 Song Xinran cut"
+  type: "Documentary"
+  date: 2016-07-19
+  language: "English"
+  link: "https://www.youtube.com/watch?v=cwibGHTC82g"
+  groups: ["SNH48"]
+  teams: ["X"]
+  members: ["Song Xinran"]
+- name: "Variety - SNH48 Dead End Travel Ep. 1"
+  type: "Variety"
+  date: 2016-08-02
+  language: "English"
+  link: "https://www.youtube.com/watch?v=b1-ES4BmXKc"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi", "Mo Han", "Qian Beiting"]
+- name: "Variety - The Amazing Idol Ep. 59 - 7SENSES"
+  type: "Variety"
+  date: 2018-02-26
+  language: "English"
+  link: "https://www.youtube.com/watch?v=xnB6wRA1nz8"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII", "X"]
+  members: ["Dai Meng", "Chen Lin", "Kong Xiaoyin", "Xu Jiaqi", "Xu Yangyuzhuo", "Zhao Yue", "Zhang Yuge"]
+- name: "Stage Clip - Qi Jing fangirling over Kiki"
+  type: "Stage Clip"
+  date: 2018-08-06
+  language: "English"
+  link: "https://www.youtube.com/watch?v=G7PObcXVB4Q"
+  groups: ["SNH48"]
+  teams: ["SII", "X"]
+  members: ["Qi Jing", "Xu Jiaqi"]
+- name: "MV - SNH48 - \"Forest Theorem\""
+  type: "MV"
+  date: 2018-05-24
+  language: "English"
+  link: "https://www.youtube.com/watch?v=j6UXOCQm89Q"
+  groups: ["SNH48", "BEJ48", "GNZ48", "CKG48"]
+  teams: ["SII", "NII", "HII", "G", "NIII", "Z"]
+  members: ["Dai Meng", "Kong Xiaoyin", "Li Yuqi", "Mo Han", "Xu Jiaqi", "Zhang Yuge", "Feng Xinduo", "Lu Ting", "Zhao Yue", "Jiang Shan", "Li Yitong", "Sun Zhenni", "Hu Xiaohui", "Liu Shuxian", "Li Zi", "Yang Ye", "Xie Leilei", "Liu Lifei", "Xiao Wenling", "Du Qiulin", "Han Jiale", "Liu Jinghan", "Bai Xinyu", "Li Yuxuan"]
+- name: "SNH48 Team SII - CKG48 Tour MC 3 20171201"
+  type: "MC"
+  date: 2017-12-01
+  language: "English"
+  link: "https://www.youtube.com/watch?v=3GxYXvZj4s8"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Li Yuqi", "Mo Han", "Qian Beiting", "Yuan Danni", "Chen Guanhui", "Xu Chenchen", "Yuan Yuzhen", "Xu Jiaqi", "Wu Zhehan"]
+- name: "SNH48 3rd Documentary - My Heart Soars"
+  type: "Documentary"
+  date: 2017-08-10
+  language: "English"
+  link: "https://www.youtube.com/watch?v=PByOzkn8tD4"
+  groups: ["SNH48"]
+  teams: ["SII", "NII", "HII", "X"]
+  members: ["Liu Peixin", "Sun Rui", "Mo Han", "Ju Jingyi", "Hong Peiyun", "Zhang Xin", "Song Xinran", "Liu Zengyan", "Sun Zhenni", "Wan Lina",  "Lu Ting", "Xie Ni", "Fei Qinyuan", "Zhao Hanqian", "Zhang Yi", "Dai Meng", "Huang Tingting", "Feng Xinduo", "Zeng Yanfen"]
+- name: "Stage Clip - Dai Meng Steps Down from SII Captain Position"
+  type: "Stage Clip"
+  date: 2019-01-26
+  language: "English"
+  link: "https://www.youtube.com/watch?v=huu09WeeL18"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "SNH48 Team SII - Sun Rui's Pigtails Debut Story - Plan Salvation MC1"
+  type: "MC"
+  date: 2021-05-23
+  language: "English"
+  link: "https://www.youtube.com/watch?v=5LiTF96vL38"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Sun Rui"]
+- name: "SNH48 Team SII - 4th Anniversary 20171111 MC"
+  type: "MC"
+  date: 2017-11-11
+  language: "English"
+  link: "https://www.youtube.com/watch?v=HpjLnMoXYcg"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Zixuan", "Xu Chenchen", "Qian Beiting", "Sun Rui", "Jiang Yun", "Chen Guanhui", "Wu Zhehan", "Li Yuqi", "Mo Han", "Dai Meng", "Chen Si", "Yuan Yuzhen", "Zhang Yuge", "Xu Jiaqi", "Kong Xiaoyin", "Shen Zhilin"]
+- name: "SNH48 Team SII - 4th Anniversary 20171111 MC"
+  type: "MC"
+  date: 2017-11-11
+  language: "Vietnamese"
+  link: "https://www.youtube.com/watch?v=HpjLnMoXYcg"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Zixuan", "Xu Chenchen", "Qian Beiting", "Sun Rui", "Jiang Yun", "Chen Guanhui", "Wu Zhehan", "Li Yuqi", "Mo Han", "Dai Meng", "Chen Si", "Yuan Yuzhen", "Zhang Yuge", "Xu Jiaqi", "Kong Xiaoyin", "Shen Zhilin"]
+- name: "SNH48 Team SII - CKG Tour 20170112 MC"
+  type: "MC"
+  date: 2017-01-12
+  language: "Vietnamese"
+  link: "https://www.youtube.com/watch?v=aP4oTERI-3c"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Zixuan", "Xu Chenchen", "Qian Beiting", "Sun Rui", "Jiang Yun", "Chen Guanhui", "Wu Zhehan", "Li Yuqi", "Mo Han", "Dai Meng", "Chen Si", "Yuan Yuzhen", "Zhang Yuge", "Xu Jiaqi", "Kong Xiaoyin", "Yuan Danni"]
+- name: "SNH48 Team SII - CKG Tour 20170112 MC"
+  type: "MC"
+  date: 2017-01-12
+  language: "English"
+  link: "https://www.youtube.com/watch?v=aP4oTERI-3c"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Zixuan", "Xu Chenchen", "Qian Beiting", "Sun Rui", "Jiang Yun", "Chen Guanhui", "Wu Zhehan", "Li Yuqi", "Mo Han", "Dai Meng", "Chen Si", "Yuan Yuzhen", "Zhang Yuge", "Xu Jiaqi", "Kong Xiaoyin", "Yuan Danni"]
+- name: "SNH48 Team SII - GNZ Tour 20160707 MC3 - Dance Game"
+  type: "MC"
+  date: 2016-07-07
+  language: "English"
+  link: "https://www.youtube.com/watch?v=Z5_Fx_x5jp0"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng", "Qian Beiting", "Xu Chenchen", "Sun Rui", "Kong Xiaoyin", "Chen Si", "Yuan Yuzhen"]
+- name: "SNH48 Team SII - GNZ Tour 20160707 MC3 - Dance Game"
+  type: "MC"
+  date: 2016-07-07
+  language: "Vietnamese"
+  link: "https://www.youtube.com/watch?v=Z5_Fx_x5jp0"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng", "Qian Beiting", "Xu Chenchen", "Sun Rui", "Kong Xiaoyin", "Chen Si", "Yuan Yuzhen"]
+- name: "Short Clip - A Romantic(?) Story of how Kiki became a MOOMOO"
+  type: "Clip (Other)"
+  date: 2020-06-19
+  language: "English"
+  link: "https://www.youtube.com/watch?v=SAmeI4tOy3U"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi"]
+- name: "Variety - Good Night Girls (Youth With You 2) Duan Yixuan, Sun Rui, Su Shanshan, Fei Qinyuan"
+  type: "Variety"
+  date: 2020-07-11
+  language: "English"
+  link: "https://www.youtube.com/watch?v=1SXiFKAQ_oE"
+  groups: ["SNH48", "BEJ48"]
+  teams: ["SII", "HII"]
+  members: ["Sun Rui", "Duan Yixuan", "Su Shanshan", "Fei Qinyuan"]
+- name: "Variety - Good Night Girls (Youth With You 2) Cool Summer PJs & Playing Werewolf"
+  type: "Variety"
+  date: 2020-07-08
+  language: "English"
+  link: "https://www.youtube.com/watch?v=ru8d3ECD_1k"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi", "Dai Meng"]
+- name: "Variety - Girl's Secret (Youth With You 2) Food TMI"
+  type: "Variety"
+  date: 2020-07-30
+  language: "English"
+  link: "https://www.youtube.com/watch?v=-u0KzJP0EnA"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng", "Zhang Yuge"]
+- name: "Livestream - Kiki's reaction to Sunrui's dream girlfriend tearing paper"
+  type: "Livestream"
+  date: 2020-08-08
+  language: "English"
+  link: "https://www.youtube.com/watch?v=RqC2IvDtv30"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi", "Sun Rui"]
+- name: "Stage Clip - Kiki and Sunrui on \"What small incident warmed your heart?\" + Bonus clip"
+  type: "Stage Clip"
+  date: 2019-06-08
+  language: "English"
+  link: "https://www.youtube.com/watch?v=QChF_XEHI28"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Xu Jiaqi", "Sun Rui", "Xu Zixuan"]
+- name: "Stage Clip - Dai Meng Heart Journey - Highlights of MC"
+  type: "MC"
+  date: 2019-01-31
+  language: "English"
+  link: "https://www.youtube.com/watch?v=SHXHTm4oOkg"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "Stage Clip - SNH48 Team SII Kong Xiaoyin Birthday Stage - Sun Rui Cut"
+  type: "MC"
+  date: 2020-08-05
+  language: "English"
+  link: "https://www.youtube.com/watch?v=rZsq0rZryZw"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Sun Rui", "Kong Xiaoyin"]
+- name: "Interview - SNH48 7SENSES Kugou Music Interview"
+  type: "Interview"
+  date: 2020-08-22
+  language: "English"
+  link: "https://www.youtube.com/watch?v=jlmVgIPdFEc"
+  groups: ["SNH48"]
+  teams: ["SII", "HII", "X"]
+  members: ["Dai Meng", "Kong Xiaoyin", "Chen Lin", "Xu Yangyuzhuo", "Zhang Yuge"]
+- name: "Election - Kong Xiaoyin 6th General Election Promo"
+  type: "Election Appeal"
+  date: 2019-07-15
+  language: "English"
+  link: "https://www.youtube.com/watch?v=5BBm7Yi0b4k"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Kong Xiaoyin"] 
+- name: "Election - Dai Meng 3rd General Election Speech"
+  type: "Election Clip"
+  date: 2016-08-05
+  language: "English"
+  link: "https://www.youtube.com/watch?v=zxiR-1TnRFo"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"] 
+- name: "Stage Clip - Kong Xiaoyin's famous quotes that she'll never live down"
+  type: "MC"
+  date: 2021-01-05
+  language: "English"
+  link: "https://www.youtube.com/watch?v=jvtgAJWIzwc"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Kong Xiaoyin"] 
+- name: "Vlog - SNH48 戴萌 Anna's Growth Diary Ep. 5"
+  type: "Vlog"
+  date: 2019-10-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=bq5nQTnE7RQ"
+  groups: ["SNH48"]
+  teams: ["SII"]
+  members: ["Dai Meng"]
+- name: "Livestream Clip - GNZ48 Zuo Jingyuan 20210317"
+  type: "Livestream"
+  date: 2021-03-17
+  language: "English"
+  link: "https://www.youtube.com/watch?v=eGh7KJVzqck"
+  groups: ["GNZ48"]
+  teams: ["NIII"]
+  members: ["Zuo Jingyuan"]
+- name: "Documentary - Ju Jingyi Starlight - The Blossoms of Flowers and Tears"
+  type: "Documentary"
+  date: 2021-03-25
+  language: "English"
+  link: "https://www.youtube.com/watch?v=poLfqdMxm3U"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Ju Jingyi"]
+- name: "Documentary - SNH48: Story Between Idols and Fans"
+  type: "Documentary"
+  date: 2020-10-26
+  language: "English"
+  link: "https://www.youtube.com/watch?v=5P5gu_LTrhQ"
+  groups: ["SNH48"]
+  teams: ["HII"]
+  members: ["Sun Zhenni"]
+- name: "Stage Clip - The sweet MC compilations in October of 2018"
+  type: "MC"
+  date: 2019-05-23
+  language: "English"
+  link: "https://www.youtube.com/watch?v=VQXetZP-yMc"
+  groups: ["GNZ48"]
+  teams: ["G", "NIII"]
+  members: ["Chen Ke", "Zheng Danni"]
+- name: "Stage Clip - Imitating Fans' Cheer & Scream | Fans rs =/= Members' rs"
+  type: "MC"
+  date: 2021-11-09
+  language: "English"
+  link: "https://www.youtube.com/watch?v=w8OrwZr1uRE"
+  groups: ["GNZ48"]
+  teams: ["G", "NIII", "Z"]
+  members: ["Zheng Danni", "Zeng Aijia", "Tang Lijia", "Liu Lifei", "Liang Jiao", "Chen Ke", "Ma Xinyue"]
+- name: "Stage Clip - 2016 Birthday Stage of Wan Lina - Letter Reading Part"
+  type: "MC"
+  date: 2016-12-03
+  language: "English"
+  link: "https://www.youtube.com/watch?v=15GOKydhYb8"
+  groups: ["SNH48"]
+  teams: ["NII"]
+  members: ["Wan Lina", "Li Yitong", "Feng Xinduo", "Lu Ting", "Lin Siyi"]
